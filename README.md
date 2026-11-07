@@ -1,13 +1,30 @@
+<div align="center">
+
 # Rematch
 
-**Tell it the job you want, in your own words. Every morning it emails you the remote jobs that fit.**
+**Your remote job search, done for you every morning.**
+
+Tell it the job you want, in your own words. Every day it reads fresh remote listings, scores them with AI, and emails you only the ones that fit.
+
+[![Node](https://img.shields.io/badge/node-24-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
+[![Supabase](https://img.shields.io/badge/database-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com)
+[![Docker](https://img.shields.io/badge/runs%20in-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](./worker/Dockerfile)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](./LICENSE)
+
+<sub>A self-hosted personal project. Not affiliated with any job board, ATS or AI provider it uses.</sub>
+
+[How it works](#how-it-works) · [Setup](#setup-step-by-step) · [Writing a good wish](#writing-a-good-wish) · [Troubleshooting](#something-not-working) · [Operator manual](./worker/README.md)
+
+</div>
+
+---
 
 Rematch reads hundreds of fresh remote listings every day, from company career
 pages and the big remote job boards. An AI reads each one the way you would and
 scores it against your wish. You get one short email a day with only the jobs worth
-your time, and a sentence on why each one fits.
+your time, and a sentence on why each one fits:
 
-```
+```text
 Hi Sam,
 
 Senior Backend Engineer — Acme
