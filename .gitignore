@@ -12,3 +12,4 @@ supabase/.temp/
 .superpowers/
 .mcp.json
 docs/superpowers/
+*.env

@@ -1,223 +1,311 @@
 # Rematch
 
-A self-hosted remote-job matcher. Describe the job you want in plain English. Every
-day Rematch collects fresh remote listings, uses Claude to read and score each one
-against your description, and emails you a short digest of the best matches.
+**Tell it the job you want, in your own words. Every morning it emails you the remote jobs that fit.**
+
+Rematch reads hundreds of fresh remote listings every day, from company career
+pages and the big remote job boards. An AI reads each one the way you would and
+scores it against your wish. You get one short email a day with only the jobs worth
+your time, and a sentence on why each one fits.
 
 ```
-collect ──► enrich ──► prefilter ──► score ──► digest
-job boards   Claude     location,     Claude     one email
-+ ATS feeds  extracts   salary,       scores     per day,
-             role,      seniority,    0–100      matches ≥ 70
-             salary…    role rules
+Hi Sam,
+
+Senior Backend Engineer — Acme
+https://boards.greenhouse.io/acme/jobs/123
+The role is fully remote in Europe and pays above your €70K floor.
+€80K–€95K / year
+Posted today
+via Greenhouse, We Work Remotely
 ```
 
-**Sources:** Greenhouse, Lever, Ashby and Recruitee company boards (companies seeded
-from the [remoteintech](https://github.com/remoteintech/remote-jobs) list), plus
-RemoteOK, We Work Remotely, Jobicy, Arbeitnow and Hacker News "Who is hiring".
+No accounts, no ads, no tracking. It runs on your own computer or server, with
+your own keys.
 
-**Stack:** Node 24 + TypeScript worker, Supabase (Postgres) for storage, the
-Anthropic API (`claude-haiku-5-5`) for enrichment and scoring, any SMTP server for mail.
+---
 
 ## How it works
 
-1. **Collect.** Job boards are read in full each run, and every known company's ATS
-   board is polled directly. An ATS link found on a job board adds that company
-   automatically. The same job seen in several places becomes one job with
-   several sources, merged only when the link, location or description agree.
-2. **Enrich.** Claude reads each new job once and extracts facts: remote or not,
-   allowed regions and countries, seniority, role family, technologies and salary
-   (converted to USD per year).
-3. **Prefilter.** Cheap rules drop pairs that can never match: not remote, wrong
-   region, salary below your floor, wrong seniority or role. Unknown facts pass.
-4. **Score.** Claude scores the remaining jobs 0–100 against your prompt, in
-   batches, with a one-sentence reason addressed to you. A score of 70 or more is
-   a match.
-5. **Digest.** At most one email per day, with the best matches, the reason, the
-   salary and age, and a credit link to every original listing.
+1. **Collect.** Every day Rematch checks the remote job boards (RemoteOK,
+   We Work Remotely, Jobicy, Arbeitnow and Hacker News "Who is hiring") and the
+   career pages of remote-friendly companies. It finds more companies as it goes,
+   whenever a listing links to a company's own careers page.
+2. **Read.** The AI reads each new job once and notes the facts: is it really
+   remote, which countries can apply, the seniority, the tech stack and the salary.
+3. **Filter.** Jobs that can never fit you are dropped right away. Examples are
+   jobs closed to your country or paying below your minimum.
+4. **Score.** The AI scores what is left from 0 to 100 against your wish. A score
+   of 70 or more makes the cut.
+5. **Email.** You get at most one email a day, best matches first. A job is never
+   sent to you twice, and jobs taken down from a company's careers page drop out.
 
-ATS jobs close when their board stops listing them or returns 404; board-only jobs
-age out after 14 days. Each job is scored once per subscriber, and delivery history
-stops an emailed job from being sent again.
+---
 
-## Before you start
+## What you need
 
-- **It costs money.** Every new job is sent to the Anthropic API. There is no spend
-  cap; each run records token usage and estimated USD cost in `public.runs`.
-- **It is a single-operator tool.** There is no web UI or signup. You add
-  subscribers (yourself, maybe a friend) with one SQL insert.
-- **It calls public job sources** once per run with a `RematchBot` user agent. Keep
-  the schedule daily; don't hammer them.
+Plan about **30–45 minutes** for the first setup. You need:
 
-## Quick start (local)
+| What | Why | Cost |
+| --- | --- | --- |
+| A computer or server that can run [Docker](https://www.docker.com/products/docker-desktop/) | Runs Rematch | Free |
+| A [Supabase](https://supabase.com) account | Stores jobs and your settings | Free plan is enough |
+| An [Anthropic API key](https://console.anthropic.com/) | The AI that reads and scores jobs | Pay as you go (see below) |
+| An email-sending service, such as [Resend](https://resend.com) | Sends your daily email | Free plans are enough |
 
-Requirements: Node 24, Docker (local Unix socket), the
-[Supabase CLI](https://supabase.com/docs/guides/local-development/cli/getting-started),
-and an [Anthropic API key](https://console.anthropic.com/).
+**What the AI costs.** Rematch has no spending cap of its own, so set a monthly
+limit in the Anthropic console. The first run reads every current job and is the
+most expensive: in our test, about 900 jobs cost **$0.34**. After that, each day
+only new jobs are read. Every run records its cost, so you can always check.
+
+> **Your computer must be on** at the scheduled time (07:00 by default) for the daily
+> email to go out. For a set-and-forget setup, use a small server instead
+> (see [Running it on a server](#running-it-on-a-server)).
+
+---
+
+## Setup, step by step
+
+### Step 1. Get the code
+
+Download this repository (green **Code** button → **Download ZIP**, then unzip it),
+or clone it:
 
 ```sh
 git clone https://github.com/sladjanstojcic/rematch.git
 cd rematch
-
-# Start the local Supabase stack (Postgres, Studio, Mailpit) and apply migrations.
-# Use this helper, not bare `supabase start`: it only touches this project's stack.
-node supabase/local-db.mts start
-node supabase/local-db.mts reset   # fresh DB only; erases this project's data
-
-cd worker
-npm ci
-cp .env.example .env.local
 ```
 
-Fill in `worker/.env.local`. Get the local `SUPABASE_SERVICE_ROLE_KEY` and `DB_URL`
-(use it as `DATABASE_URL`) from `supabase status -o env`. Add your `ANTHROPIC_API_KEY`
-and `OWNER_EMAIL`, and set `TZ` to your timezone (for example `Europe/Berlin`).
+### Step 2. Create the database
+
+1. Sign in to [Supabase](https://supabase.com/dashboard) and click **New project**.
+   Pick a name, set a database password (save it), and choose a region near you.
+2. When the project is ready, collect three values. Keep them private:
+   - **Project URL:** for example `https://abcd1234.supabase.co`. It is shown when
+     you click **Connect**, and under **Project Settings**.
+   - **Secret key:** in **Project Settings → API Keys**. Use the secret
+     (`service_role`) key, never the public `anon`/publishable one.
+   - **Connection string:** click **Connect** at the top, choose **Session pooler**,
+     and copy the URI. It ends in `:5432/postgres`. Put your database password in
+     place of `[YOUR-PASSWORD]`.
+
+   > Use the **Session pooler** string. The "Transaction pooler" (port `6543`) does
+   > not work with Rematch. If your password contains symbols like `@`, `#` or `/`,
+   > either change it to letters and numbers or
+   > [URL-encode](https://www.urlencoder.org/) it.
+
+3. Create Rematch's tables. In a terminal, inside the `rematch` folder, run this
+   with your connection string. It needs [Node.js 24](https://nodejs.org/):
+
+   ```sh
+   npx supabase db push --db-url "postgresql://postgres.abcd1234:YOUR-PASSWORD@aws-0-eu-central-1.pooler.supabase.com:5432/postgres"
+   ```
+
+   Answer `Y` when it asks to apply the migrations.
+
+### Step 3. Get your AI key
+
+In the [Anthropic console](https://console.anthropic.com/), add a payment method,
+set a monthly **spend limit** (for example $5), and create an **API key**. It starts
+with `sk-ant-`.
+
+### Step 4. Set up email sending
+
+Rematch needs an SMTP service to send mail. With [Resend](https://resend.com), for example:
+
+1. Add and verify your domain (Resend shows you the DNS records to add).
+2. Create an API key. Your SMTP settings are then: host `smtp.resend.com`, port
+   `465`, user `resend`, password = that API key.
+
+Any other provider (Postmark, Mailgun, Amazon SES, your own mail host) works the
+same way: you need a host, port, username, password, and a "from" address on a
+domain the provider has verified.
+
+### Step 5. Fill in your settings
+
+Create a file called `rematch.env` in the `rematch` folder and fill it in:
+
+```ini
+# Database (Step 2)
+SUPABASE_URL=https://abcd1234.supabase.co
+SUPABASE_SERVICE_ROLE_KEY=your-service-role-key
+DATABASE_URL=postgresql://postgres.abcd1234:YOUR-PASSWORD@aws-0-eu-central-1.pooler.supabase.com:5432/postgres
+
+# AI (Step 3)
+ANTHROPIC_API_KEY=sk-ant-...
+
+# Email (Step 4)
+SMTP_HOST=smtp.resend.com
+SMTP_PORT=465
+SMTP_USER=resend
+SMTP_PASS=your-resend-api-key
+MAIL_FROM=Rematch <jobs@your-domain.com>
+# Replies and unsubscribe requests go here:
+OWNER_EMAIL=you@example.com
+
+# When to send: every day at 07:00 in your timezone
+RUN_CRON=0 7 * * *
+TZ=Europe/Berlin
+```
+
+- Do **not** put quotes around the values. Docker would keep them as part of the value.
+- `TZ` is your timezone, for example `Europe/London`, `America/New_York` or
+  `Asia/Tokyo` ([full list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones)).
+- This file holds your secrets. Never share or commit it. `rematch.env` is already
+  ignored by git.
+
+### Step 6. Start Rematch
+
+Open Docker Desktop, then in the `rematch` folder run:
 
 ```sh
-npm run seed   # resolve remoteintech companies to ATS boards
-npm run once   # warm-up: collect and enrich jobs, no subscribers yet
+docker build -t rematch worker
+docker run -d --name rematch --restart unless-stopped --env-file rematch.env rematch
 ```
 
-Open Studio at <http://127.0.0.1:54323>. Check that the latest `public.runs.stats`
-shows `enrich.failed` near 0, then add yourself in the SQL editor:
+Rematch is now running in the background. Check that it started:
+
+```sh
+docker logs rematch
+```
+
+You should see a line like `Next run: … (Europe/Berlin)`.
+
+### Step 7. Load the job sources (one time)
+
+```sh
+docker exec rematch node dist/seed/remoteintech.js   # finds company career pages; can take a few minutes
+docker exec rematch node dist/main.js --once         # first collection; the AI reads all current jobs
+```
+
+The second command can take a while, because the first run reads every job.
+
+### Step 8. Tell Rematch what you want
+
+In Supabase, open **SQL Editor**, paste this, change it to describe yourself, and
+click **Run**:
 
 ```sql
 insert into public.subscribers (email, name, location, prompt)
 values (
-  'you@example.com', 'Your Name', 'Germany',
-  'Senior backend role with Go or Rust, at least €70k per year, fully remote, EU timezone.'
+  'you@example.com',
+  'Your Name',
+  'Germany',
+  'Senior backend role with Go or Rust, at least €70k per year, fully remote, EU timezone. No crypto or gambling.'
 );
 ```
 
-```sh
-npm run once   # scores jobs for you and sends your first digest
-```
+- **location** is the country you live in and can legally work from. Jobs closed
+  to that country are left out.
+- **prompt** is your wish, in plain words. See the tips below.
 
-Locally, mail goes to Mailpit at <http://127.0.0.1:54324>, not your real inbox. To
-keep it running daily, run `npm run build && npm start`. The process stays up and
-runs at `RUN_CRON` (default 07:00) in `TZ`.
-
-### Writing a good prompt
-
-- `location` is where you live and can legally work from. It filters out jobs
-  restricted to other regions.
-- `prompt` is free text. Mention the stack, role, seniority, minimum salary with
-  currency and period, and anything you refuse. The more specific, the better the scores.
-- Changing `prompt` or `location` starts a fresh catch-up: your next digest
-  re-evaluates the last 14 days of jobs (at most 15 items).
-
-## Deploy on a VPS or Coolify
-
-In production you need three things: a Postgres database with the Supabase API in
-front of it, the worker container, and a real SMTP provider.
-
-### 1. Database
-
-Pick one:
-
-- **Supabase Cloud** (easiest; the free tier is enough). Create a project, then from
-  **Connect** copy the API URL, the `service_role` key and a connection string.
-- **Self-hosted Supabase**, for example Coolify's one-click Supabase service. Use
-  its Kong/API URL, its service-role key and the Postgres connection string.
-
-> **`DATABASE_URL` must be a direct or *session-mode* connection.** The worker holds
-> a Postgres advisory lock for the whole run, and a transaction-mode pooler
-> (Supabase port `6543`) breaks it. On Supabase Cloud, the direct host
-> (`db.<ref>.supabase.co`) is IPv6-only. From a Docker/Coolify network without IPv6,
-> use the **Session pooler** string (`…pooler.supabase.com:5432`).
-
-Apply the migrations from your machine. The URL must be percent-encoded:
+### Step 9. Get your first email
 
 ```sh
-supabase db push --db-url "postgresql://postgres.<ref>:<password>@aws-0-<region>.pooler.supabase.com:5432/postgres"
-```
-
-### 2. Mail
-
-Use any SMTP provider (Resend, Postmark, Amazon SES, Mailgun, your mail host).
-Set `SMTP_HOST`, `SMTP_PORT` (`465` uses implicit TLS, `587` uses STARTTLS),
-`SMTP_USER`, `SMTP_PASS`, and a `MAIL_FROM` on a domain you have verified with
-that provider.
-
-### 3a. Worker on Coolify
-
-1. **New Resource → Application**, pointing at your fork of this repository.
-2. Build pack **Dockerfile**, base directory `/worker`, Dockerfile `/Dockerfile`.
-3. Leave the domain empty. The worker serves no HTTP, so turn off the health check.
-4. Add the environment variables from the [configuration](#configuration) table
-   as runtime variables.
-5. Deploy. The logs should show `Next run: … (<your TZ>)`.
-6. Open the container's **Terminal** in Coolify and run the first-time steps:
-
-   ```sh
-   node dist/seed/remoteintech.js   # seed companies
-   node dist/main.js --once         # warm-up run; check runs.stats in Studio
-   ```
-
-   Insert your subscriber (SQL above) in the Supabase SQL editor, then run
-   `node dist/main.js --once` again for your first digest. After that, the
-   scheduler handles it daily.
-
-### 3b. Worker on a plain VPS (Docker)
-
-```sh
-git clone https://github.com/sladjanstojcic/rematch.git && cd rematch
-docker build -t rematch-worker worker
-# Create worker/.env.production with the variables below (it is git-ignored).
-docker run -d --name rematch --restart unless-stopped \
-  --env-file worker/.env.production rematch-worker
-
-docker exec rematch node dist/seed/remoteintech.js
 docker exec rematch node dist/main.js --once
-docker logs -f rematch
 ```
 
-A manual `--once` and the scheduled run never overlap. Whichever starts second
-returns `skipped`.
+Within a few minutes your first email arrives, with up to 15 of the best jobs
+from the last 14 days. Check your spam folder the first time. From now on,
+Rematch sends a fresh email every morning on its own.
 
-## Configuration
+---
 
-| Variable | Required | Default / notes |
-| --- | --- | --- |
-| `SUPABASE_URL` | yes | Supabase API URL (local: `http://127.0.0.1:54321`) |
-| `SUPABASE_SERVICE_ROLE_KEY` | yes | Server-side key; never expose it to a browser |
-| `DATABASE_URL` | yes | Direct or session-mode Postgres URL for the same database |
-| `ANTHROPIC_API_KEY` | yes | Real calls are billed |
-| `OWNER_EMAIL` | yes | Reply-To and `List-Unsubscribe` address in digests |
-| `SMTP_HOST` | no | `127.0.0.1` (local Mailpit) |
-| `SMTP_PORT` | no | `54325` (local Mailpit); `465` = implicit TLS |
-| `SMTP_USER`, `SMTP_PASS` | no | Unset for Mailpit |
-| `MAIL_FROM` | no | `Rematch <digest@rematch.local>` |
-| `RUN_CRON` | no | `0 7 * * *` (daily at 07:00) |
-| `TZ` | no | `UTC`. IANA name; sets the schedule and the one-digest-per-day boundary |
+## Writing a good wish
 
-## Operating it
+The AI only knows what you tell it. The more specific you are, the better the matches.
 
-- **Each run** writes a row to `public.runs`: status (`ok`, `partial`, `failed`),
-  per-stage counters, errors, tokens and estimated cost. Look there first.
-- **Companies whose ATS board returns 404** on three consecutive runs are deactivated.
-  To retry one, fix the slug and set `active = true, not_found_runs = 0`.
-- **Pause someone** with `update public.subscribers set active = false where email = '…'`.
-  Don't delete subscribers: that erases their delivery history, and old jobs
-  would be sent again.
-- **Back up the database.** Delivery history is what stops repeat emails.
+- **Role and level:** "senior frontend engineer", "junior data analyst", "engineering manager"
+- **Skills:** "React and TypeScript", "Python, dbt, Snowflake"
+- **Minimum pay, with currency and period:** "at least $120k per year", "€50 per hour"
+- **Deal-breakers:** "no crypto", "no agencies", "no on-call"
+- **Nice-to-haves:** "small product company", "four-day week"
 
-See [`worker/README.md`](worker/README.md) for the full operator manual: run
-semantics, catch-up and dedupe rules, failure handling, and warm-up before prompt changes.
+> Good: *"Mid or senior product designer, Figma, B2B SaaS, at least €60k per year,
+> fully remote within Europe. No agencies, no web3."*
+>
+> Too vague: *"design job"*
 
-## Development
+Changing your wish or location later is fine. Your next email then looks back
+over the last 14 days with the new wish.
+
+---
+
+## Day to day
+
+Run these in the Supabase **SQL Editor**.
+
+| You want to… | Do this |
+| --- | --- |
+| Change what you're looking for | `update public.subscribers set prompt = '…' where email = 'you@example.com';` |
+| Pause the emails | `update public.subscribers set active = false where email = 'you@example.com';` |
+| Resume them | `update public.subscribers set active = true where email = 'you@example.com';` |
+| Add a friend | Run the Step 8 insert again with their details |
+| See how runs went, and what they cost | `select started_at, status, est_cost_usd, errors from public.runs order by started_at desc limit 10;` |
+
+Don't delete people from `subscribers`. Their history is what stops jobs from being
+sent twice. Pause them instead.
+
+To stop Rematch completely: `docker stop rematch`. To start it again: `docker start rematch`.
+
+---
+
+## Something not working?
+
+**No email arrived.**
+Check spam first. Then look at the latest run (the "see how runs went" query above).
+An email error usually means the SMTP settings are wrong or the `MAIL_FROM` domain
+is not verified with your email provider.
+
+**The run status says `partial`.**
+Some sources or jobs failed, and everything else worked. This is normal now and
+then; job sites go down. The `errors` column says what failed.
+
+**The run status says `skipped`.**
+Another run was already in progress. Wait until it finishes.
+
+**It says a connection or lock failed.**
+Make sure `DATABASE_URL` is the **Session pooler** string (port `5432`), not the
+Transaction pooler (port `6543`).
+
+**I changed `rematch.env` but nothing changed.**
+Docker reads the file only when the container is created. Recreate it:
+`docker rm -f rematch`, then run the `docker run` command from Step 6 again.
+
+---
+
+## Running it on a server
+
+For a daily email that doesn't depend on your laptop, run Rematch on any small
+Linux server with Docker, for example a basic VPS. Copy the folder and your
+`rematch.env` there, then follow Steps 6–9 the same way.
+
+**Coolify:** create an **Application** from this repository with build pack
+**Dockerfile**, base directory `/worker`, no domain, and the health check off.
+Paste the contents of `rematch.env` as environment variables and deploy. Run the
+Step 7 and Step 9 commands from the container's **Terminal**.
+
+---
+
+## For developers
+
+Rematch is a Node 24 + TypeScript worker with Supabase (Postgres) storage, the
+Anthropic API (`claude-haiku-5-5`) and any SMTP server.
 
 ```sh
+node supabase/local-db.mts start   # local Supabase stack with Studio and Mailpit
 cd worker
-npm test            # fake AI, sources and mail against the local Supabase stack
-npm run typecheck
-npm run build
+npm ci
+cp .env.example .env.local         # local values from: supabase status -o env
+npm test                           # truncates the local app tables
+npm run typecheck && npm run build
 ```
 
-Tests **truncate the app tables** in the local database. They refuse to run when a
-subscriber email isn't on `@example.test`, but don't run them on a database whose
-data you want to keep. After changing migrations, regenerate the types with
-`node supabase/local-db.mts types`.
+Tests truncate the app tables in the local database. They refuse to run while a
+subscriber email isn't on `@example.test`. After changing migrations, regenerate
+the types with `node supabase/local-db.mts types`.
+
+The operator manual in [`worker/README.md`](worker/README.md) covers the full
+details: run semantics, deduplication and catch-up rules, failure handling, and
+all the counters in `public.runs`.
 
 ## License
 
