@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss">
+  <channel>
+    <title>We Work Remotely: Full-Stack Programming Jobs</title>
+    <link>https://weworkremotely.com/categories/remote-full-stack-programming-jobs.rss</link>
+    <description>We Work Remotely: Full-Stack Programming Jobs</description>
+    <language>en-US</language>
+    <ttl>60</ttl>
+    <item>
+      <title>Toptal: Cryptography Specialist for AI lab</title>
+      <region>Anywhere in the World</region>
+      <country></country>
+      <state></state>
+      <skills></skills>
+      <category>Full-Stack Programming</category>
+      <type>Full-Time</type>
+      <description>
+
+&lt;p&gt;
+  &lt;strong&gt;Headquarters:&lt;/strong&gt; 
+&lt;/p&gt;
+
+&lt;p&gt;Overview&lt;/p&gt;&lt;p&gt;A fast-growing AI evaluation company is building expert-level benchmarks that test how well AI agents handle real professional work in the terminal. We are hiring cryptography experts to turn real, paid tasks from their own work into end-to-end challenges for AI agents, each with a working solution and a check that proves the result is correct.&lt;/p&gt;&lt;p&gt;***THIS IS A TASK BASED COMPENSATION MODEL. PLEASE CHECK THE APPLICATION QUESTIONS FOR MORE DETAILS.***&lt;/p&gt;&lt;p&gt;Responsibilities&lt;/p&gt;&lt;p&gt;• Design expert-level Terminal-Bench cryptography tasks by turning real, paid work from your own experience into challenges that an AI agent must solve end to end.&lt;/p&gt;&lt;p&gt;• Define the task environment, including files, systems, ciphertexts and data, so the challenge is realistic, self-contained and reproducible in a Linux command-line setup.&lt;/p&gt;&lt;p&gt;• Write a working reference solution in Python or SageMath that proves the task is solvable, for example by recovering a key or decrypting a secret.&lt;/p&gt;&lt;p&gt;• Build automated checks and tests that objectively verify the final result is correct, and explain how a mistake or a partial answer would be detected.&lt;/p&gt;&lt;p&gt;• Calibrate task difficulty so a typical expert needs about 60-75 minutes to solve it, keeping it hard for AI agents while still fair and unambiguous.&lt;/p&gt;&lt;p&gt;• Package each task with Docker and Git where applicable, document instructions clearly, and revise based on reviewer feedback until it meets the required quality bar.&lt;/p&gt;&lt;p&gt;Skills/Experience&lt;/p&gt;&lt;p&gt;• 3+ years of hands-on cryptanalysis or applied cryptography; GRC, audit-only, policy, sales or management roles do not count, nor does coursework only&lt;/p&gt;&lt;p&gt;• Did the work in the last 3 years and can name the systems, tools, data and rules used&lt;/p&gt;&lt;p&gt;• Uses the low-level tools of the subfield, such as SageMath and Python, and works comfortably on the Linux command line&lt;/p&gt;&lt;p&gt;• Can show how a finding is proven, such as a decrypted secret or a recovered key, and explain how a mistake would be caught&lt;/p&gt;&lt;p&gt;• Technical fluency with files, CSV/JSON, APIs or databases&lt;/p&gt;&lt;p&gt;• Available to start around November 2026&lt;/p&gt;&lt;p&gt;Nice-to-have&lt;/p&gt;&lt;p&gt;• Published write-ups or research on cryptanalysis&lt;/p&gt;&lt;p&gt;• Strong CTF results, especially in crypto categories&lt;/p&gt;&lt;p&gt;• CVEs discovered in cryptographic implementations&lt;/p&gt;&lt;p&gt;• Experience with Docker, Git and writing automated tests&lt;/p&gt;&lt;p&gt;• Proficiency in C for low-level cryptographic work&lt;/p&gt;&lt;p&gt;Process&lt;/p&gt;&lt;p&gt;• Task vetting: complete a vetting task instead of a live interview&lt;/p&gt;&lt;p&gt;• Work is paid per task, with each task taking roughly 60-75 minutes&lt;/p&gt;&lt;p&gt;• Expected start around early November 2026&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;To apply:&lt;/strong&gt; &lt;a href="https://weworkremotely.com/remote-jobs/toptal-cryptography-specialist-for-ai-lab"&gt;https://weworkremotely.com/remote-jobs/toptal-cryptography-specialist-for-ai-lab&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Thu, 05 Nov 2026 17:09:07 +0000</pubDate>
+      <expires_at>Sat, 05 Dec 2026 17:09:07 +0000</expires_at>
+      <guid>https://weworkremotely.com/remote-jobs/toptal-cryptography-specialist-for-ai-lab</guid>
+      <link>https://weworkremotely.com/remote-jobs/toptal-cryptography-specialist-for-ai-lab</link>
+    </item>
+    <item>
+      <title>Kiavi: Senior Applied Scientist, Property Analytics</title>
+      <region>USA Only</region>
+      <country></country>
+      <state></state>
+      <skills>Python, SQL, Machine Learning, Deep Learning, and Feature Engineering</skills>
+      <category>Full-Stack Programming</category>
+      <type>Full-Time</type>
+      <description>
+
+&lt;p&gt;
+  &lt;strong&gt;Headquarters:&lt;/strong&gt; 
+    &lt;br /&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="http://www.kiavi.com"&gt;http://www.kiavi.com&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;THE TEAM&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Our Property Analytics team is made up of 360-degree thinkers that analyze complex problems and come up with creative solutions. We love to combine advanced analytics and machine learning skills with deep domain knowledge about the business when creating solutions. You will work with some of the most fascinating data sets in the world, alongside a world-class group of product engineers, sales and marketing leaders, and business operators.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PURPOSE OF THE ROLE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Figure’s Property Analytics team is seeking a Senior Applied Scientist to join us in our effort to reinvent real estate lending. You will be working alongside engineering, product, and business leaders to tackle complex research and machine learning problems related to automated valuation models (AVMs), asset valuation, and process optimization.&lt;/p&gt;
+&lt;p&gt;An ideal candidate brings deep expertise in advanced machine learning, statistical modeling, and production-grade AI system architectures. You will lead technical direction, mentor team members, and partner closely with MLOps engineers, Product Managers, Credit Risk Management and Capital Markets subject matter experts to drive select strategic initiatives from initial research to production deployment. If you are keen on joining a dynamic company and solving intellectually challenging problems in a fast-paced environment, please reach out to us.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;KEY RESPONSIBILITIES:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead the end-to-end design, architecture, development, and deployment of state-of-the-art automated valuation modeling (AVM) systems for novel lending products.&lt;/li&gt;
+&lt;li&gt;Architect and refine innovative machine learning, deep learning, and statistical models for asset valuation, incorporating spatial-temporal trends, macroeconomic factors, market liquidity, and property risk dynamics.&lt;/li&gt;
+&lt;li&gt;Establish robust quantitative frameworks for continuous model performance assessment, monitoring, and automated retraining across changing real estate cycles.&lt;/li&gt;
+&lt;li&gt;Build analytical tools and frameworks to empower cross-functional teams across risk, underwriting, and capital markets.&lt;/li&gt;
+&lt;li&gt;Partner closely with data infrastructure and MLOps engineering teams to drive initiatives that enhance data capabilities, build feature stores, and streamline real-time inference infrastructure.&lt;/li&gt;
+&lt;li&gt;Design useful data attributes and feature representations, leveraging structured, unstructured, and multimodal data sources (e.g., property photos, listing descriptions, spatial features).&lt;/li&gt;
+&lt;li&gt;Perform exploratory data analysis, evaluate frontier AI capabilities, and make strategic recommendations to improve current decisioning frameworks and valuation accuracy.&lt;/li&gt;
+&lt;li&gt;Refactor and optimize existing analytical solutions and algorithmic components to improve scalability, reliability, and execution efficiency.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;EXPERIENCE &amp;amp; QUALIFICATIONS:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ph.D. or Master's degree in a quantitative discipline (e.g., Computer Science, Data Science, Statistics, Economics, Applied Mathematics, Machine Learning) with 5+ years of industry experience (or 3+ years with a Ph.D.) building and deploying machine learning models in production.&lt;/li&gt;
+&lt;li&gt;Proven track record of developing statistical and machine learning models at an account, customer, or real estate asset level.&lt;/li&gt;
+&lt;li&gt;Solid understanding and hands-on application of advanced machine learning techniques, deep learning, spatial analytics, and AI capabilities.&lt;/li&gt;
+&lt;li&gt;Strong production-level programming skills in Python, SQL, and R.&lt;/li&gt;
+&lt;li&gt;Demonstrated experience in technical leadership, cross-functional collaboration, and mentoring junior team members.&lt;/li&gt;
+&lt;li&gt;Excellent oral and written communication skills with the ability to explain complex technical, algorithmic, and mathematical concepts clearly to non-technical stakeholders and executive leadership.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;PREFERRED REQUIREMENTS:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hands-on experience developing, evaluating, and deploying Automated Valuation Models (AVMs) or automated appraisal systems.&lt;/li&gt;
+&lt;li&gt;Exposure to time-to-event/survival analysis, financial econometric modeling, or spatial-temporal forecasting.&lt;/li&gt;
+&lt;li&gt;Experience handling and modeling unstructured data, including computer vision or natural language processing applications in real estate.&lt;/li&gt;
+&lt;li&gt;Proficiency with distributed computing frameworks (e.g., Spark) and modern deep learning frameworks (e.g., PyTorch, TensorFlow).&lt;/li&gt;
+&lt;li&gt;Experience with Monte Carlo simulations, Bayesian inference, or causal machine learning.&lt;/li&gt;
+&lt;li&gt;Familiarity with MLOps best practices, cloud architecture (AWS/GCP), feature stores, and model serving infrastructure.&lt;/li&gt;
+&lt;li&gt;Progress towards or completion of relevant quantitative/financial certifications (e.g., FRM or CFA).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;strong&gt;Identity Verification Notice:&lt;/strong&gt; &lt;/strong&gt;To ensure the security and integrity of our hiring process, all candidates are required to complete a secure identity verification. This process uses biometric and device validation to confirm identity and liveness. All data is handled securely in accordance with our privacy policy.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;span&gt;Kiavi takes a market-based approach to pay, and pay may vary depending on your location. The expected annualized base pay range for this full-time role to be performed remotely is $175,000 - $225,000 base + bonus + benefits. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries. Within the range, the successful candidate’s starting pay will be determined based on job-related skills, experience, qualifications, work location, and market conditions. Your recruiter can share more about the specific base pay range for your preferred location during the hiring process. Please note that the pay range listed above reflects the base salary only, and does not include the target value of bonus or benefits.&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Protect yourself from recruitment scams:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If you are offered an interview or a role with Kiavi, this will be communicated with you through email, via an official email address ending in @kiavi.com or @lendinghome.com.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;You will never be asked for payments of any kind during the process.&lt;/li&gt;
+&lt;li&gt;We also never communicate with candidates via Whatsapp at any point during the recruitment process.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;We won’t ask for personal information or data via text message. If you have any concerns regarding how genuine a text message is, please contact your recruiter.&lt;/li&gt;
+&lt;li&gt;You can find our official Kiavi careers &lt;a href="https://www.kiavi.com/careers"&gt;page here&lt;/a&gt;. We advise you to check that the page details and website addresses match if you have any concerns.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h5&gt;Kiavi is an Equal Opportunity Employer&lt;a href="http://sfgov.org/olse/sites/default/files/FileCenter/Documents/11600-Art%20%2049%20Official%20Notice%20Final%20091114.pdf"&gt;&lt;br&gt;San Francisco Fair Chance Ordinance Police Code, Article 49 &lt;/a&gt;&lt;/h5&gt;
+&lt;h5&gt;We use &lt;a href="https://yellow-bari-48.tiiny.site"&gt;E-Verify&lt;/a&gt; to confirm the identity and employment eligibility of all new hires.&amp;nbsp;&lt;/h5&gt;
+
+&lt;p&gt;&lt;strong&gt;To apply:&lt;/strong&gt; &lt;a href="https://weworkremotely.com/remote-jobs/kiavi-senior-applied-scientist-property-analytics"&gt;https://weworkremotely.com/remote-jobs/kiavi-senior-applied-scientist-property-analytics&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Thu, 05 Nov 2026 13:22:36 +0000</pubDate>
+      <expires_at>Sat, 05 Dec 2026 13:22:26 +0000</expires_at>
+      <guid>https://weworkremotely.com/remote-jobs/kiavi-senior-applied-scientist-property-analytics</guid>
+      <link>https://weworkremotely.com/remote-jobs/kiavi-senior-applied-scientist-property-analytics</link>
+    </item>
+    <item>
+      <title>EXL: Quality Analyst - Clinical Validation Auditor (CVA), Healthcare</title>
+      <region>USA Only</region>
+      <country></country>
+      <state></state>
+      <skills>Problem Solving and Communication Skills</skills>
+      <category>Full-Stack Programming</category>
+      <type>Full-Time</type>
+      <description>
+
+&lt;p&gt;
+  &lt;strong&gt;Headquarters:&lt;/strong&gt; United States
+    &lt;br /&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com:443/hcmUI/CandidateExperience/"&gt;https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com:443/hcmUI/CandidateExperience/&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;This&amp;nbsp;is&amp;nbsp;a&amp;nbsp;remote&amp;nbsp;office&amp;nbsp;opportunity.&amp;nbsp;The&amp;nbsp;Quality&amp;nbsp;Analyst&amp;nbsp;oversees&amp;nbsp;work&amp;nbsp;performed&amp;nbsp;by&amp;nbsp;the&amp;nbsp;Clinical&amp;nbsp;CVA&amp;nbsp;auditors&amp;nbsp;to&amp;nbsp;ensure&amp;nbsp;that&amp;nbsp;EXL’s&amp;nbsp;standard&amp;nbsp;of&amp;nbsp;accuracy&amp;nbsp;is&amp;nbsp;met.&amp;nbsp;The&amp;nbsp;analyst&amp;nbsp;undertakes&amp;nbsp;a&amp;nbsp;quality&amp;nbsp;review&amp;nbsp;of&amp;nbsp;random&amp;nbsp;and&amp;nbsp;targeted&amp;nbsp;clinical&amp;nbsp;CVA&amp;nbsp;audits.&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;A&amp;nbsp;brief&amp;nbsp;coding/auditing&amp;nbsp;assessment&amp;nbsp;may&amp;nbsp;be&amp;nbsp;included&amp;nbsp;as&amp;nbsp;part&amp;nbsp;of&amp;nbsp;the&amp;nbsp;interview&amp;nbsp;process&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Estimated&amp;nbsp;salary&amp;nbsp;range&amp;nbsp;is&amp;nbsp;$60,100&amp;nbsp;to&amp;nbsp;$98,700&amp;nbsp;&lt;/p&gt;&lt;p&gt;For&amp;nbsp;more&amp;nbsp;information&amp;nbsp;on&amp;nbsp;benefits&amp;nbsp;and&amp;nbsp;what&amp;nbsp;we&amp;nbsp;offer&amp;nbsp;please&amp;nbsp;visit&amp;nbsp;us&amp;nbsp;at&amp;nbsp;&lt;a href="https://www.exlservice.com/us-careers-and-benefits"&gt;https://www.exlservice.com/us-careers-and-benefits&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Responsibilities&lt;/h3&gt;&lt;div&gt;
+ &lt;ul&gt;
+  &lt;li&gt;Apply clinical judgment for DRG audits to ensure accuracy of inpatient DRG coding&amp;nbsp;&lt;/li&gt;
+ &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div&gt;
+ &lt;ul&gt;
+  &lt;li&gt;Responsible for reviewing the accuracy and consistency of clinical DRG auditing auditors to ensure audits are appropriately marked for findings and no findings&amp;nbsp;&lt;/li&gt;
+ &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div&gt;
+ &lt;ul&gt;
+  &lt;li&gt;Mentor Clinical DRG auditors&amp;nbsp;&lt;/li&gt;
+ &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div&gt;
+ &lt;ul&gt;
+  &lt;li&gt;Recommend process changes to improve quality and performance&amp;nbsp;&lt;/li&gt;
+ &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div&gt;
+ &lt;ul&gt;
+  &lt;li&gt;Communicate with peers and management&amp;nbsp;&lt;/li&gt;
+ &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div&gt;
+ &lt;ul&gt;
+  &lt;li&gt;Provide root cause analysis on errors&amp;nbsp;&lt;/li&gt;
+ &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div&gt;
+ &lt;ul&gt;
+  &lt;li&gt;Perform other duties as assigned&amp;nbsp;&lt;/li&gt;
+ &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div&gt;
+ &lt;ul&gt;
+  &lt;li&gt;Conduct all job functions and responsibilities in accordance with all company Compliance, Information Security and Regulatory policies, procedures and programs&lt;/li&gt;
+ &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;Qualifications&lt;/h3&gt;&lt;div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Current Registered Nurse license&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;5 plus years experience working with clinical validation audits&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Knowledge and Skills:&lt;/strong&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Superior auditing and monitoring skills&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Ability to mentor and instruct&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Excellent decision making skills and sound judgment&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Thorough understanding of medical terminology and human physiology&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Strong technical knowledge and ability to learn new systems quickly&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Excellent oral/presentation and written communication skills&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Ability to complete tasks efficiently and resolve problems within set timelines&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Strong organizational skills and attention to detail&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Ability to work in a team environment and independently as needed&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Demonstrated flexibility and adaptability&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Must be able to work under deadlines. Must be able to utilize independent decision-making skills in a wide variety of situations&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Requires a high degree of accuracy in the performance of varied responsibilities.&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Personal computer skills required. Must be self-motivated to complete work in a timely manner to meet deadlines&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Strong interpersonal skills required&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;The posted base salary range is the hiring base salary range for this role. Final offers are based on several factors, including: the candidate's skills and experience, internal pay equity, work location, market conditions for the role, and the specific scope and responsibilities of the position.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;br&gt;&lt;div&gt;
+ EXL (NASDAQ: EXLS) is a leading data analytics and digital operations and solutions company. We partner with clients using a data and AI-led approach to reinvent business models, drive better business outcomes and unlock growth with speed. EXL harnesses the power of data, analytics, AI, and deep industry knowledge to transform operations for the world’s leading corporations in industries including insurance, healthcare, banking and financial services, media and retail, among others. EXL was founded in 1999 with the core values of innovation, collaboration, excellence, integrity and respect. We are headquartered in New York and have more than 54,000 employees spanning six continents. For more information, visit&amp;nbsp;&lt;a href="http://www.exlservice.com/"&gt;www.exlservice.com&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div&gt;
+ &lt;div&gt;
+  &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+ &lt;/div&gt;&lt;i&gt;EXL never requires or asks for fees/payments or credit card or bank details during any phase of the recruitment or hiring process and has not authorized any agencies or partners to collect any fee or payment from prospective candidates. EXL will only extend a job offer after a candidate has gone through a formal interview process with members of EXL’s Human Resources team, as well as our hiring managers.&lt;/i&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;/div&gt;
+
+&lt;br&gt;&lt;span&gt;EXL is the indispensable partner for leading businesses in data-led industries such as insurance, banking and financial services, healthcare, retail and logistics. We bring a unique combination of data, advanced analytics, digital technology and industry expertise to help our clients turn data into insights, streamline operations, improve customer experience, and transform their business. Our partnerships with clients are built on a foundation of collaboration – and we’ve been chosen as a partner by nine of the top ten leading US insurance companies, nine of the top 20 global banks, and six of the top ten US health care payers. We function as one team to make your goals our goals, whether that’s unlocking the value of generative AI or embedding analytics into workflows that reduce risk or power your growth. Clients choose EXL as their transformation partner for many reasons. Our geographic diversity make talent all over the world instantly accessible. Digital accelerators enable unmatched speed-to-value, letting you realize results fast. It’s our people that truly set us apart, though, including the 1,500 data scientists we have dedicated to our generative AI practice. And our more than twenty years of experience in delivering business services, garnering stellar client references, and maintaining a solid balance sheet are reassuring to our C-suite clients. Find out for yourself why clients, employees, and analysts think we’re some of the best in the business. Contact us to see how we can help you achieve your goals.&lt;/span&gt;
+
+&lt;p&gt;&lt;strong&gt;To apply:&lt;/strong&gt; &lt;a href="https://weworkremotely.com/remote-jobs/exl-quality-analyst-clinical-validation-auditor-cva-healthcare"&gt;https://weworkremotely.com/remote-jobs/exl-quality-analyst-clinical-validation-auditor-cva-healthcare&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Thu, 05 Nov 2026 13:22:35 +0000</pubDate>
+      <expires_at>Sat, 05 Dec 2026 13:22:26 +0000</expires_at>
+      <guid>https://weworkremotely.com/remote-jobs/exl-quality-analyst-clinical-validation-auditor-cva-healthcare</guid>
+      <link>https://weworkremotely.com/remote-jobs/exl-quality-analyst-clinical-validation-auditor-cva-healthcare</link>
+    </item>
+    <item>
+      <title>DRFIRST COM INC: Senior Software Engineer</title>
+      <region>USA Only</region>
+      <country></country>
+      <state></state>
+      <skills>AWS, Java, SQL, NoSQL, System Architecture, Microservices, and Distributed Systems</skills>
+      <category>Full-Stack Programming</category>
+      <type>Full-Time</type>
+      <description>
+
+&lt;p&gt;
+  &lt;strong&gt;Headquarters:&lt;/strong&gt; United States
+    &lt;br /&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=fc2a6c7e-ef54-4ed9-8c04-d5aca23f99e3"&gt;https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=fc2a6c7e-ef54-4ed9-8c04-d5aca23f99e3&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;span&gt;Senior Software Engineer, eRx Enterprise and Gadget&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&lt;h1&gt;About DrFirst&lt;/h1&gt;&lt;p&gt;For 25 years, DrFirst has empowered providers and patients to achieve better health through intelligent medication management. We improve healthcare workflows and help patients start and stay on therapy with end-to-end solutions that enhance prescription access, affordability, and adherence. Our solutions help 100 million patients a year and are used by more than 420,000 prescribers, 71,000 pharmacies, 270 EHRs and health information systems, and over 2,000 hospitals in the U.S. This is a great opportunity to be a part of a successful Healthcare IT company experiencing significant growth. Here you’ll get to work with some of the smartest and most interesting people around, solving unique and complex challenges in healthcare on a scale matched by few companies. If you get excited about stretching yourself in new ways, developing yourself to your fullest potential, and care about working with smart colleagues, we want to talk to you!&lt;/p&gt;&lt;h1&gt;Position Overview&lt;/h1&gt;&lt;p&gt;DrFirst is hiring a Senior Software Engineer for the eRx Enterprise and Gadget team. Your first focus is Gadget, our pharmacy agent. Over time you will extend your work into Rcopia, our ePrescribing platform, on Electronic Prescribing of Controlled Substances (EPCS) and Prescription Drug Monitoring Program (PDMP) workflows.&lt;/p&gt;&lt;p&gt;You will build cloud native, high performance services for an ePrescribing collaboration platform. The platform connects providers, patients, payers, pharmacies, and pharmaceutical companies in real time. You will design systems built for high load, with self healing, auto scaling, and full observability.&lt;/p&gt;&lt;p&gt;You bring strong judgment about AI. You know when AI speeds up delivery and when AI produces weak code. You apply AI to raise code quality, performance, and design standards across the team, and you solve real problems for the pharmacies and prescribers who rely on our platform.&lt;/p&gt;&lt;h1&gt;What You Will Work On&lt;/h1&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Build and improve Gadget, the DrFirst pharmacy agent, from design through production.&lt;/li&gt;&lt;li&gt;Contribute to Rcopia EPCS and PDMP capabilities as the team roadmap expands.&lt;/li&gt;&lt;li&gt;Design, develop, test, deploy, and maintain secure, scalable Java integration solutions.&lt;/li&gt;&lt;li&gt;Build cloud native microservices on AWS with auto scaling, fault tolerance, high availability, and self healing.&lt;/li&gt;&lt;li&gt;Develop and maintain integrations with major EHR platforms, including athenaOne, Epic, Oracle Health, Greenway, AdvancedMD, eMDs, and ModMed, using HL7, FHIR, web services, APIs, and Mirth Connect.&lt;/li&gt;&lt;li&gt;Build and maintain event driven architectures with Apache Kafka for reliable, efficient service communication.&lt;/li&gt;&lt;li&gt;Deliver high throughput and low latency across large, distributed platforms.&lt;/li&gt;&lt;li&gt;Partner with DevOps on CI/CD pipelines that automate testing, deployment, and monitoring.&lt;/li&gt;&lt;li&gt;Design AI powered automation frameworks for faster development cycles and automated regression testing.&lt;/li&gt;&lt;li&gt;Decide where AI adds value in the codebase and where human design must lead. Set review standards for AI assisted code.&lt;/li&gt;&lt;li&gt;Monitor, diagnose, and resolve performance issues with observability tools and logs.&lt;/li&gt;&lt;li&gt;Follow and enforce secure coding practices. Take part in security audits and reviews.&lt;/li&gt;&lt;li&gt;Lead code reviews, mentor junior developers, and contribute to architecture decisions.&lt;/li&gt;&lt;li&gt;Track industry trends and improve system performance, resilience, and developer productivity.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;h1&gt;Qualifications&lt;/h1&gt;&lt;h2&gt;Required&lt;/h2&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Bachelor's degree in Computer Science or a related discipline.&lt;/li&gt;&lt;li&gt;5+ years of hands on Java development with deep knowledge of object oriented design and the Spring Framework, including Spring Boot and Spring Cloud.&lt;/li&gt;&lt;li&gt;3+ years designing and building cloud native applications on AWS, including S3, Valkey, Lambda, RDS, and EKS or ECS.&lt;/li&gt;&lt;li&gt;3+ years with distributed messaging systems such as Apache Kafka, with a solid grasp of event streaming.&lt;/li&gt;&lt;li&gt;Proven record building and integrating large scale, high performance, distributed systems with fault tolerance, scalability, and low latency.&lt;/li&gt;&lt;li&gt;AI first mindset, with daily hands on use of AI tools such as Claude and GitHub Copilot for coding, testing, debugging, and documentation.&lt;/li&gt;&lt;li&gt;Clear judgment on when and where AI improves engineering outcomes, and a record of keeping AI generated code from lowering quality, performance, or design.&lt;/li&gt;&lt;li&gt;Proficiency building and consuming RESTful APIs with JSON and XML.&lt;/li&gt;&lt;li&gt;Strong experience with relational or NoSQL databases, including schema design, performance tuning, and query optimization.&lt;/li&gt;&lt;li&gt;Hands on experience with CI/CD pipelines and tools such as GitLab CI and Jenkins.&lt;/li&gt;&lt;li&gt;Solid knowledge of application and data security, including authentication, authorization, and data protection.&lt;/li&gt;&lt;li&gt;Self motivated. You work well on your own in a fast paced, agile environment.&lt;/li&gt;&lt;li&gt;Fast learner who adapts to new technologies, teams, and environments.&lt;/li&gt;&lt;li&gt;Strong analytical and troubleshooting skills with a proactive, solution oriented approach.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;h2&gt;Preferred&lt;/h2&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Experience building AI agents, LLM integrations, or agentic workflows in production.&lt;/li&gt;&lt;li&gt;Experience with large scale, mission critical systems in finance, brokerage, trading, or credit card processing, especially systems requiring low latency, high throughput, and high availability.&lt;/li&gt;&lt;li&gt;Experience with ePrescribing, EPCS, PDMP, NCPDP SCRIPT, or pharmacy systems.&lt;/li&gt;&lt;li&gt;Familiarity with front end technologies (HTML, CSS, JavaScript).&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;h1&gt;Physical Requirements&lt;/h1&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Primarily desk work in a remote, U.S. based setting.&lt;/li&gt;&lt;li&gt;Extended periods of computer use.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;&lt;span&gt;#LI-GF1 #LI-Remote&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&lt;h1&gt;Benefits&lt;/h1&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Competitive compensation, with a base salary of $130,000 to $150,000 (Exact compensation may vary based on skills and experience)&lt;/li&gt;&lt;li&gt;Eligible for a Discretionary Performance-based bonus&lt;/li&gt;&lt;li&gt;Medical, dental, and vision insurance&lt;/li&gt;&lt;li&gt;401K eligible after 3 months of employment, with 50% company match up to first 5% of salary contributed to the plan with a 3-year vesting schedule&lt;/li&gt;&lt;li&gt;HSA for eligible employees enrolled in the HDHP, with a generous company contribution up to $500 for individual coverage and $1000 for family coverage per year&lt;/li&gt;&lt;li&gt;100% company paid short and long-term disability, AD&amp;amp;D, and group life insurance&lt;/li&gt;&lt;li&gt;Accrued annual paid time off (PTO) of 18 days for the first 3 years of service, increasing thereafter and 7 paid holiday days&lt;/li&gt;&lt;li&gt;Employee Assistance Program&lt;/li&gt;&lt;li&gt;Continuing Education funds up to $1500 annually for eligible programs after 1 year of service&lt;/li&gt;&lt;li&gt;Voluntary benefits including FSA, Hospital indemnity, Accident and Critical Illness insurances&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;DrFirst is committed to being a Remote-First company, creating a dynamic and flexible workplace where everyone thrives, no matter where they log in from. Check out our approach to remote work: &lt;a href="https://drfirst.com/company/about-us/careers/"&gt;https://drfirst.com/company/about-us/careers/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Our recruitment process at DrFirst is straightforward and secure. You will only be contacted by our recruitment team through an official @drfirst.com email address. We will never ask you for payment or sensitive personal information, such as your social security number or banking details, at any stage of the hiring process. Additionally, we will not request that you purchase equipment or accept e-checks or checks for deposit. If you encounter any communications claiming to be from DrFirst that seem suspicious, please contact our recruitment team directly at recruiter@drfirst.com to verify the message’s authenticity. Your security is important to us!&lt;/p&gt;&lt;p&gt;Learn more about our benefits and professional development opportunities: &lt;a href="https://drfirst.com/company/about-us/careers/the-perks/"&gt;https://drfirst.com/company/about-us/careers/the-perks/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;To apply:&lt;/strong&gt; &lt;a href="https://weworkremotely.com/remote-jobs/drfirst-com-inc-senior-software-engineer"&gt;https://weworkremotely.com/remote-jobs/drfirst-com-inc-senior-software-engineer&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Thu, 05 Nov 2026 13:22:33 +0000</pubDate>
+      <expires_at>Sat, 05 Dec 2026 13:22:26 +0000</expires_at>
+      <guid>https://weworkremotely.com/remote-jobs/drfirst-com-inc-senior-software-engineer</guid>
+      <link>https://weworkremotely.com/remote-jobs/drfirst-com-inc-senior-software-engineer</link>
+    </item>
+    <item>
+      <media:content url="https://wwr-pro.s3.amazonaws.com/logos/0017/0601/logo.gif" type="image/png"/>
+      <title>Secure Privacy: Senior Full-Stack Web Developer (.NET/C#/MongoDB/Angular/Redux) – AI-First, with GDPR Experience</title>
+      <region>Anywhere in the World</region>
+      <country></country>
+      <state>Hovedstaden</state>
+      <skills></skills>
+      <category>Full-Stack Programming</category>
+      <type>Full-Time</type>
+      <description>&lt;img src="https://we-work-remotely.imgix.net/logos/0017/0601/logo.gif?ixlib=rails-4.0.0&amp;w=50&amp;h=50&amp;dpr=2&amp;fit=fill&amp;auto=compress" /&gt;
+
+&lt;p&gt;
+  &lt;strong&gt;Headquarters:&lt;/strong&gt; Europe (DK)
+    &lt;br /&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://secureprivacy.ai"&gt;https://secureprivacy.ai&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;div&gt;&lt;strong&gt;Secure Privacy&lt;/strong&gt; is expanding, and we’re looking for an experienced Senior Full-Stack Developer with expertise in .NET, C#, and MongoDB, along with GDPR experience, to join our team! You’ll work remotely with a diverse group of developers, helping us build cutting-edge data privacy solutions for global clients. This role focuses on creating and optimizing APIs and backend services. If you’re passionate about clean, maintainable code, we’d love to hear from you!&lt;br&gt;&lt;br&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;What You’ll Do:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Develop and maintain backend services with C# and .NET.&lt;/li&gt;
+&lt;li&gt;Develop and maintain frontend logic with Angular and Redux.&lt;/li&gt;
+&lt;li&gt;Use AI coding tools (Cursor, Claude Code, or similar) as a core part of your daily workflow, and help the team get more out of them.&lt;/li&gt;
+&lt;li&gt;Work closely with designers to bring high-quality, scalable, and maintainable solutions to life.&lt;/li&gt;
+&lt;li&gt;Engage in all stages of the development process: planning, coding, testing, and deployment.&lt;/li&gt;
+&lt;li&gt;Advocate for best practices and contribute to improving our development standards.&lt;/li&gt;
+&lt;li&gt;Collaborate in a remote environment, primarily during European business hours.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div&gt;&lt;strong&gt;What We’re Looking For:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;5+ years of backend development experience, particularly with C# and .NET Framework.&lt;/li&gt;
+&lt;li&gt;Hands-on, daily experience with AI coding tools such as Cursor or Claude Code on real projects, including giving agents good context and critically reviewing AI-generated code.&lt;/li&gt;
+&lt;li&gt;Expertise in MongoDB, including complex operations (aggregations, compound indexes, transactions).&lt;/li&gt;
+&lt;li&gt;Experience with GDPR, CCPA, or other data privacy compliance standards.&lt;/li&gt;
+&lt;li&gt;Experience in Angular development, including NgRx or other Redux frameworks, is desirable.&lt;/li&gt;
+&lt;li&gt;Experience with payment platforms such as Stripe.&lt;/li&gt;
+&lt;li&gt;Strong Git skills, including modern branching strategies and ways of working.&lt;/li&gt;
+&lt;li&gt;Familiarity with profiling web apps for high availability and scalability.&lt;/li&gt;
+&lt;li&gt;Ability to make informed decisions between server-side and client-side code.&lt;/li&gt;
+&lt;li&gt;Excellent communication skills and the ability to collaborate with non-engineers.&lt;/li&gt;
+&lt;li&gt;A proactive approach to problem-solving, with a high level of discipline and independence.&lt;/li&gt;
+&lt;li&gt;Startup experience.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div&gt;&lt;strong&gt;Bonus Points If You Have:&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience building MCP servers.&lt;/li&gt;
+&lt;li&gt;Open source contributions.&lt;/li&gt;
+&lt;li&gt;StackOverflow or other community contributions.&lt;/li&gt;
+&lt;li&gt;Mobile app or SDK experience.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;To apply, submit your CV and a short Loom video (max 2 minutes) introducing yourself and how you use AI to develop faster without compromising quality.&lt;/strong&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;To apply:&lt;/strong&gt; &lt;a href="https://weworkremotely.com/remote-jobs/secure-privacy-senior-full-stack-web-developer-net-c-mongodb-angular-redux-ai-first-with-gdpr-experience"&gt;https://weworkremotely.com/remote-jobs/secure-privacy-senior-full-stack-web-developer-net-c-mongodb-angular-redux-ai-first-with-gdpr-experience&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Thu, 05 Nov 2026 12:39:27 +0000</pubDate>
+      <expires_at>Sat, 05 Dec 2026 12:39:27 +0000</expires_at>
+      <guid>https://weworkremotely.com/remote-jobs/secure-privacy-senior-full-stack-web-developer-net-c-mongodb-angular-redux-ai-first-with-gdpr-experience</guid>
+      <link>https://weworkremotely.com/remote-jobs/secure-privacy-senior-full-stack-web-developer-net-c-mongodb-angular-redux-ai-first-with-gdpr-experience</link>
+    </item>
+  </channel>
+</rss>

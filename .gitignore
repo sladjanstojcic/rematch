@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env*
+!.env.example
+supabase/.temp/
+.DS_Store
+
+# Personal agent tooling and working notes
+.claude/
+.codex/
+.serena/
+.superpowers/
+.mcp.json
+docs/superpowers/

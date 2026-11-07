@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss">
+  <channel>
+    <title>We Work Remotely: Remote jobs in design, programming, marketing and more</title>
+    <link>https://weworkremotely.com/categories/remote-programming-jobs.rss</link>
+    <description>We Work Remotely: Remote jobs in design, programming, marketing and more</description>
+    <language>en-US</language>
+    <ttl>60</ttl>
+    <item>
+      <media:content url="https://wwr-pro.s3.amazonaws.com/logos/0171/3386/logo.gif" type="image/png"/>
+      <title>Sanctuary Computer: Head of Technology</title>
+      <region>Anywhere in the World</region>
+      <category>Full-Stack Programming</category>
+      <description>&lt;img src="https://we-work-remotely.imgix.net/logos/0171/3386/logo.gif?ixlib=rails-4.0.0&amp;w=50&amp;h=50&amp;dpr=2&amp;fit=fill&amp;auto=compress" /&gt;
+
+&lt;p&gt;
+  &lt;strong&gt;Headquarters:&lt;/strong&gt; New York City
+    &lt;br /&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://sanctuary.computer"&gt;https://sanctuary.computer&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;We are hiring a &lt;strong&gt;Head of Technology&lt;/strong&gt; for the garden3d creative collective, to lead engineering at Sanctuary Computer and garden3d in the era of agentic computer code.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://garden3d.notion.site/Head-of-Technology-3f9131fea2c7815da5e3ec914835c397?source=copy_link"&gt;&lt;strong&gt;Original job posting link&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;About &lt;a href="https://garden3d.net/"&gt;garden3d&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;We are worker owned creative collective, innovating on everything from brands and IRL communities to IoT devices and cross platform apps. We share profit, open source everything, spin out new businesses, and invest in exciting ideas through financial and/or in-kind contributions.&lt;/p&gt;
+&lt;p&gt;Our client roster includes Google, Stripe, Figma, Hinge, Black Socialists in America, ACLU, Pratt, Parsons, Mozilla, The Nobel Prize, MIT, Gnosis, Etsy &amp;amp; Gagosian.&lt;/p&gt;
+&lt;p&gt;We’re the software team behind innovative products like The Light Phone &amp;amp; Mill, and we operate a global, decentralized community space collective called Index Space.&lt;/p&gt;
+&lt;p&gt;We think of our garden3d as collective for creative people, prioritizing a happy, talented, and diverse studio culture. We work on projects that bring value to our world, and we balance deep care for the work we do with a genuine curiosity about life outside of our jobs.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Sanctuary Computer - Development&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;At &lt;strong&gt;&lt;a href="https://www.sanctuary.computer/"&gt;Sanctuary Computer&lt;/a&gt;&lt;/strong&gt; we’re building a different type of technology shop – one that prioritizes close collaboration between the client and the craftsperson.&lt;/p&gt;
+&lt;p&gt;Our projects range from design-forward websites, to robust web apps, to native mobile development.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;XXIX - Design&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;When we started &lt;strong&gt;&lt;a href="https://www.xxix.co/"&gt;XXIX&lt;/a&gt;&lt;/strong&gt; in 2013, we set out to create a different kind of design studio and we’ve thrived because we continually ask what a creative practice can be.&lt;/p&gt;
+&lt;p&gt;We’re building a radically different kind of organization that values autonomy, growth, transparency, and shared responsibility.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Index - Community&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://www.index-space.org/"&gt;Index&lt;/a&gt;&lt;/strong&gt; is network of physical spaces all around the world, Index provides space for the exchange of knowledge and tools.&lt;/p&gt;
+&lt;p&gt;We nurture trust within the creative community through generosity and abundance of ideas and care.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;&lt;a href="https://feed.garden3d.net/"&gt;garden3d TK&lt;/a&gt; — Media&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;At garden3d, we’re in the early stages of building an experimental media company exploring emerging themes related to the evolving landscape of technology, design and culture.&lt;/p&gt;
+&lt;p&gt;We aim to monetize this outlet, publish books, produce screenplays, and release music.&lt;/p&gt;
+&lt;p&gt;Plus, our partner organizations&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://www.thelightphone.com/"&gt;Lightphone&lt;/a&gt;&lt;br&gt;&lt;/strong&gt;&lt;strong&gt;&lt;a href="https://www.mill.com/"&gt;Mill&lt;/a&gt;&lt;br&gt;&lt;/strong&gt;&lt;strong&gt;&lt;a href="https://ingredient-ai.com/"&gt;IngredientAI&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;⛰️ The Head of Technology Role&lt;/h2&gt;
+&lt;p&gt;The garden3d Head of Technology has one mandate: everything we build works, holds up in production, and gets built the smartest way available to us. We are a house of brands - Sanctuary Computer (development), XXIX (design), Index Space (community), USB Club (digital community), and the garden3d umbrella itself - and a lot of what all of them ship runs on software we wrote. Working in close partnership with our founder &amp;amp; president Hugh Francis, this person sets the engineering standard, and builds the culture that holds it.&lt;/p&gt;
+&lt;p&gt;You can be based anywhere. A lot of our people are in New York and there's some gravity here, but we already work across timezones and we would happily hire in Europe, Singapore, Chicago, or wherever you are. If you're the right person, we want to hear from you.&lt;/p&gt;
+&lt;p&gt;This role works with studio leads, developers, designers, project managers and clients across every garden3d vertical.&lt;/p&gt;
+&lt;p&gt;This person can move between a Rails migration, a Next.js app, a firmware release plan and an agent loop in the same week, and raise the bar on each of them.&lt;/p&gt;
+&lt;p&gt;They span all of garden3d, but their home base is Sanctuary Computer, where roughly 70% of their time goes. Our development studio is where the engineering standard gets set, and where it either holds or slips: architecture, code review, estimation, and the hardest technical calls on our biggest projects. The other 30% goes to garden3d's broader technology story: how we ship product for USB Club, build with agents across the collective, which tools and platforms we bet on, and what we build for ourselves.&lt;/p&gt;
+&lt;p&gt;They are also how we get better people. Our work is only as good as the engineers making it, so this person hunts for exceptional talent, sells them on us, and sets them up to do the best work of their careers. The ideal candidate looks at a worker-owned collective with four studios, an open P&amp;amp;L and clients like Google, Stripe, Brooklyn Museum and The Nobel Prize, and sees an engineering practice they can propel among the best in the world.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Responsibilities &amp;amp; Mandates&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3&gt;️ &lt;strong&gt;Systems that hold up&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;We build web apps, native apps, data pipelines, content platforms and connected devices for clients who can't afford for them to fall over. This person has engineered complex systems for a long time, and it shows in the architecture they draw before a line is written. They own the technical blueprint on our most important projects, and they make the hard calls on the rest: what to build, what to buy, and what to leave out.&lt;/p&gt;
+&lt;h3&gt; &lt;strong&gt;All in on agentic development&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The way software gets built changed, and we intend to be ahead of it. This person is already deep in it: loop engineering, agents running against evals, agents that open their own PRs, and the guardrails that make all of that trustworthy. They make agentic development the default way Sanctuary Computer works, and they can tell the difference between a demo and a system a team can rely on.&lt;/p&gt;
+&lt;h3&gt; &lt;strong&gt;Practical engineering&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;We strongly prefer convention over configuration, boring technology, and platforms that let a small team ship a lot. TypeScript is the default language, Rails and Phoenix handle what they're best at, and we'd rather deploy to a platform like Render or Heroku than run our own infrastructure. This person practices value engineering: the simplest thing that works, built well, at a cost the client is glad to pay.&lt;/p&gt;
+&lt;h3&gt; &lt;strong&gt;Code quality at Sanctuary Computer&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Sanctuary Computer is where our engineering standard lives, so this is where most of their energy goes. They set what good code review looks like, keep our senior developers sharp on architecture and quality, and make sure that bar holds without slowing the team down.&lt;/p&gt;
+&lt;h3&gt; &lt;strong&gt;Hiring and empowering the very best&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;They are a magnet for exceptional engineers. They know where to find them, how to convince them, and how to give them enough room to do their best work while still holding them to the standard. People who work for this person should get visibly better, and should say so.&lt;/p&gt;
+&lt;h3&gt; &lt;strong&gt;Estimation, scoping and delivery&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;They make sure our teams can reliably estimate and story point the work ahead, and that we deliver at a pace that meets the dates we promised and protects our margins. When an estimate is wrong, they find out why and fix the process.&lt;/p&gt;
+&lt;h3&gt; &lt;strong&gt;The technical voice in new business&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Our clients include Google, Stripe, Figma, Mozilla and The Nobel Prize. This person joins new business calls as the trusted technical consultant, scopes the work, writes the technical side of proposals, and can explain a hard tradeoff to a client's CTO and their CEO in the same meeting.&lt;/p&gt;
+&lt;h3&gt; &lt;strong&gt;Hardware sense&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;We're the software team behind The Light Phone and Mill, so a good share of our work touches devices. This person doesn't need to be a firmware engineer, but they understand how hardware works, where it constrains the software, and how to plan a project that spans both.&lt;/p&gt;
+&lt;h3&gt; &lt;strong&gt;The garden3d technology story&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Across the collective, they decide which tools and platforms we bet on, how every studio uses agents, and which internal tools are worth turning into products. When someone at garden3d asks "how should we build this?", this person has the answer, or knows who does.&lt;/p&gt;
+&lt;h3&gt; &lt;strong&gt;Culture&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;They model garden3d's values of partnership, curiosity, and accountability. The engineers they lead do the best work of their careers here, because the feedback is honest, the recognition is earned, and the craft rubs off&lt;/p&gt;
+&lt;h3&gt;&amp;nbsp;&lt;strong&gt;Special Projects&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;In addition to day to day responsibilities, here’s an idea of some of the projects this role may spearhead or support in coming years →&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Making agentic development the default way Sanctuary Computer builds, with loops and evals the whole team trusts&lt;/li&gt;
+&lt;li&gt;Setting the shared technical conventions every garden3d studio builds from&lt;/li&gt;
+&lt;li&gt;Landing the kind of flagship engineering engagement that changes what people think we do&lt;/li&gt;
+&lt;li&gt;Hiring the next generation of the engineering team, across every garden3d studio&lt;/li&gt;
+&lt;li&gt;Turning the internal tools and agents we build for ourselves into products&lt;/li&gt;
+&lt;li&gt;Partnering with the Head of Design so our own studio websites are as well engineered as they are designed&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Qualifications&lt;/h2&gt;
+&lt;p&gt;This is a great opportunity for someone looking to make a significant impact in a growing, dynamic company. Based on the responsibilities of this role, we think the right candidate has the following experience and skills:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; Must have:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;12+ years building software, at least three of them leading engineers inside a studio, agency, startup or founder-led company&lt;/li&gt;
+&lt;li&gt;Deep experience engineering complex systems, shipped and run in production: distributed services, data pipelines, multi-platform products&lt;/li&gt;
+&lt;li&gt;A true technology generalist, comfortable across frontend, backend, data, infrastructure and native&lt;/li&gt;
+&lt;li&gt;A strong preference for practical engineering: convention over configuration, boring technology, and platforms as a service over bespoke infrastructure&lt;/li&gt;
+&lt;li&gt;All in on agentic development: loop engineering, evals, and agents doing real work in a real codebase&lt;/li&gt;
+&lt;li&gt;Fluency across most of our stack: React, Next.js, Ruby on Rails, Elixir &amp;amp; Phoenix, Sanity, Postgres, Redis. You won't use all of it every week, but you should be able to review any of it&lt;/li&gt;
+&lt;li&gt;Experience as the technical lead in winning work: scoping, estimating and pitching to clients&lt;/li&gt;
+&lt;li&gt;A track record of hiring exceptional engineers, and of people who got measurably better working for them&lt;/li&gt;
+&lt;li&gt;Hands-on. This person can still write the code, not only review it (and will get on the tools when the need arises)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt; Nice-to-have:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A sense of how hardware works: firmware, embedded systems, IoT, and shipping software for physical products&lt;/li&gt;
+&lt;li&gt;Experience in a client services environment (a consultancy, agency or studio)&lt;/li&gt;
+&lt;li&gt;Experience in a Sales Engineer or Solutions Architect role&lt;/li&gt;
+&lt;li&gt;Open source projects they've started or maintained&lt;/li&gt;
+&lt;li&gt;Experience fostering close collaboration between design and engineering teams&lt;/li&gt;
+&lt;li&gt;Experience inside a worker-owned, open-book, or otherwise unusual company&lt;/li&gt;
+&lt;li&gt;A network in the engineering community: the meetups, the conferences, the people worth hiring&lt;/li&gt;
+&lt;li&gt;Interests in design, art, music, food or fashion. We find these people have a well rounded sense of quality&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt; Who you are&lt;/h2&gt;
+&lt;p&gt;The person we’re looking for is happy, relaxed and easy to get along with and appreciates a commitment to a culture of transparency, non-dictatorial leadership styles, and alternative methodologies. They’re flexible on anything except conceits that will lower their usually outstanding work quality. They work “smart” by carefully managing their workflow and team.&lt;/p&gt;
+&lt;h2&gt; How we interview&lt;/h2&gt;
+&lt;p&gt;After you submit your application, a member of our team will reach out. Our interview process starts with an intro call to answer any questions you have about the role and to learn a bit more about your experience and interests.&lt;/p&gt;
+&lt;p&gt;From there, we’ll follow up with a panel interview call where you get to meet a few members of our team, to openly discuss some of our challenges and ensure your skills and interests align with where we’re going as a business.&lt;/p&gt;
+&lt;p&gt;For qualified candidates, the process wraps with a reference call, and an offer to follow.&lt;/p&gt;
+&lt;h2&gt; Compensation&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;This is a permanent leadership role.&lt;/strong&gt; If this individual exceeds expectations in their first four months, we'll shape the permanent role together, with scope and compensation that grow as the studios and their revenue do. After a period of proven success (12 - 24 months), they become eligible to join our worker ownership program.&lt;/p&gt;
+&lt;p&gt;We start with a 4-month fraction trial contract, paid hourly between &lt;strong&gt;$110 - $175&lt;/strong&gt; p/hr pending seniority &amp;amp; experience. In the first few weeks of the trial, this individual will propose their own goals to define success in their trial, and present them to our leadership team for approval.&lt;/p&gt;
+&lt;p&gt;At garden3d, we believe that those who shoulder the most responsibility and create the greatest impact should be paid accordingly. This role greatly favors autonomous, competent &amp;amp; ambitious operators.&lt;/p&gt;
+&lt;h2&gt;‍ &lt;strong&gt;How we work:&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;We believe that there’s a better balance between the poles of freelancing &amp;amp; full time, and for that reason we work differently to most shops:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://sanctucompu.substack.com/p/our-open-source-2020-profit-and-loss"&gt;Transparency &amp;amp; Ownership&lt;/a&gt;:&lt;/strong&gt;&amp;nbsp;We release out Profit &amp;amp; Loss statements to the community each year, open source our best ideas, and talk business &amp;amp; money with everyone in the company. We’re proud to run our business with integrity, and for that reason we share everything with our team &amp;amp; community.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://negative.sanctuary.computer/"&gt;150% Carbon Negative&lt;/a&gt;:&lt;/strong&gt; Our studio offsets 150% of the carbon we use to do business each year, dated back to our founding in 2015. We turn down work that is not in-line with our morals, and we encourage our peers to do the same. &lt;a href="https://twitter.com/sanctucompu/status/1385282161197060100"&gt;We have been certified climate neutral since 2021&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://sanctucompu.substack.com/p/our-moral-compass"&gt;Strong Morals&lt;/a&gt;:&lt;/strong&gt; Since our founding, we've turned down somewhere between $1mm - $2mm of work that didn't meet our moral standards. (Most of that was DTC brands that can't show a valid sustainability initiative).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Async &amp;amp; Decentralized:&lt;/strong&gt; We use tools optimized for calm, thoughtful communication, and opt for async whenever possible. We fight hard to maintain our focus time.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Remote Friendly:&lt;/strong&gt;&amp;nbsp;Our company is fluent in remote work, making our workplace more decentralized, and democratized in the process.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ideas &amp;amp; Products:&lt;/strong&gt;&amp;nbsp;In our spare studio time, we work to build our own open source or internal products to diversify &amp;amp; bolster our income. We create amazing technology products for our clients, so why not for the studio?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;→ Read more on our &lt;a href="https://sanctucompu.substack.com/"&gt;Substack, over here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt; How to apply&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;We’re excited to hear from you! ❤&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kindly submit a complete and thoughtful application, including relevant links that help verify your work experience and identity. Applications with missing or insufficient information will not move forward in the review process.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Our team carefully reviews every complete submission, and we truly appreciate the time and effort you put into applying! :)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;To apply:&lt;/strong&gt; &lt;a href="https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology"&gt;https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Fri, 16 Oct 2026 14:21:11 +0000</pubDate>
+      <guid>https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology</guid>
+      <link>https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology</link>
+    </item>
+    <item>
+      <title>Samsara: Staff Software Engineer</title>
+      <region>Anywhere in the World</region>
+      <category>Full-Stack Programming</category>
+      <description>
+
+&lt;p&gt;
+  &lt;strong&gt;Headquarters:&lt;/strong&gt; Remote
+    &lt;br /&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://www.samsara.com/"&gt;https://www.samsara.com/&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;About the role:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Samsara (NYSE: IOT) sits at the center of hardware, software, AI, and the physical world. The platform processes 25+ trillion data points annually from IoT sensors, cameras, and connected devices across thousands of organizations, and that dataset is compounding: it grew from 4 trillion to 25+ trillion in four years. We're still early in turning that data into the products that will define how physical operations run, and we're hiring the engineers who will build what comes next.&lt;/p&gt;
+&lt;p&gt;We're approaching ~$2B ARR growing 30%+ year over year, with 96% of our largest customers on two or more products. The fastest-growing divisions at Samsara are tackling the hardest, most ambiguous problems at the company: building new products from scratch, applying AI and ML to massive real-world datasets, and shipping capabilities that change how organizations maintain equipment, manage fleets, and run day-to-day operations. Most of this work is zero-to-one, at billion-dollar scale.&lt;/p&gt;
+&lt;p&gt;We're looking for software engineers who want to define what ships next. Leveling is broad and flexible: we're hiring from Senior through Staff+, across platform and product, and we're open to shaping scope around the right person's strengths and interests. That window won't stay open long.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This role is remote and open to candidates residing in the US. Relocation assistance will not be provided for this role.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;You should apply if:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;You want to impact the industries that run our world.&lt;/strong&gt;&amp;nbsp;The software you build will have real-world stakes: helping keep the lights on, getting food into grocery stores, keeping workers safe. What ships here isn't metrics on a dashboard. It shows up on the loading dock, the job site, and the dispatch floor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;You want to build, not maintain.&lt;/strong&gt;&amp;nbsp;Samsara is in full growth mode. We're building new systems from scratch, not babysitting old ones. You'd own entire problem spaces end to end, with the autonomy to set direction from day one.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;You want to work where AI meets the physical world.&lt;/strong&gt;&amp;nbsp;Samsara has spent a decade building the largest proprietary dataset for physical operations. More connected assets generate more data, more data trains better models, better models drive more value, and more value wins more assets. The market and the opportunity here are what set us apart, not just the models.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;You believe customers are more than a number.&lt;/strong&gt;&amp;nbsp;Samsara engineers have a rare closeness to end users. You'll participate in customer interviews, collaborate with product managers and customer success, and use that context to build products that solve real problems operators face every day.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;You have the curiosity and drive to figure it out.&lt;/strong&gt;&amp;nbsp;We're looking for people who take pride in their work and get things done at all costs. The engineers who thrive here don't wait to be told what to build. They define it, ship it, and own the outcome. The rate-limiting step on our teams isn't tooling or process. It's ambition.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;In this role, you will:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Take ownership of technically complex, mission-critical areas and run with them. We want to point you in a direction and show up to the demo meeting impressed, not spend our weeks managing the details.&lt;/li&gt;
+&lt;li&gt;Define and drive technical strategy for new products and platform capabilities, from backend services and APIs to the customer-facing UI.&lt;/li&gt;
+&lt;li&gt;Design and ship full-stack features end to end. You'll work across backend, frontend, and potentially mobile to deliver AI-powered products that solve real operational problems.&lt;/li&gt;
+&lt;li&gt;Partner with product, design, and customer-facing teams to translate ambiguous, real-world problems into clear technical plans and measurable outcomes.&lt;/li&gt;
+&lt;li&gt;Build and scale the systems behind AI-driven products, including data ingestion, APIs, and the workflows that put intelligence into the hands of operators.&lt;/li&gt;
+&lt;li&gt;Raise the bar for the engineers around you through code reviews, design reviews, technical mentorship, and by setting a standard for quality, velocity, and craft.&lt;/li&gt;
+&lt;li&gt;Champion, role model, and embed Samsara’s cultural principles (Focus on Customer Success, Build for the Long Term, Adopt a Growth Mindset, Be Inclusive, Win as a Team) as we scale globally and across new offices&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Minimum requirements for the role:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bachelor's degree in Computer Science, Engineering, or equivalent practical experience.&lt;/li&gt;
+&lt;li&gt;8+ years of experience in software design and development, including building and operating production systems at scale.&lt;/li&gt;
+&lt;li&gt;Strong full-stack fundamentals. You're comfortable working across backend services, APIs, and frontend (web or mobile) to ship complete products.&lt;/li&gt;
+&lt;li&gt;Proficiency in modern languages and frameworks (Go, Python, TypeScript/JavaScript, React, or similar).&lt;/li&gt;
+&lt;li&gt;Demonstrated experience leading cross-team or cross-org projects from inception through rollout, including managing ambiguity, driving alignment, and delivering measurable impact.&lt;/li&gt;
+&lt;li&gt;Experience building AI-powered or data-driven products. You don't need to train models, but you know how to take AI capabilities and turn them into products customers love.&lt;/li&gt;
+&lt;li&gt;Strong communication skills and the ability to translate between technical and non-technical stakeholders.&lt;/li&gt;
+&lt;li&gt;A track record of building: zero-to-one products, systems you left in a meaningfully better place, or hard problems you refused to let stay unsolved.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;An ideal candidate also has:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience shipping AI-powered features in production, whether that's LLM-based products, agentic workflows, recommendation systems, or other customer-facing AI.&lt;/li&gt;
+&lt;li&gt;Comfort with modern AI-augmented development workflows (Cursor, LLMs, etc.) to multiply your output and accelerate delivery.&lt;/li&gt;
+&lt;li&gt;Background working with real-world operational data (telematics, sensor data, work orders, inspections) or a strong interest in learning the domain.&lt;/li&gt;
+&lt;li&gt;A proven track record of mentoring senior engineers and influencing engineering culture, standards, and best practices beyond a single team.&lt;/li&gt;
+&lt;li&gt;Side projects, open-source contributions, or other signals of curiosity and drive outside the scope of your day job.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="content-pay-transparency"&gt;
+&lt;div class="pay-input"&gt;
+&lt;div class="description"&gt;
+&lt;p&gt;The range of annual base salary for full-time employees for this position is below. Please note that base pay offered may vary depending on factors including your city of residence, job-related knowledge, skills, and experience. This role is also eligible for an initial RSU grant with no vesting cliff, and ongoing refresh opportunities tied to performance, subject to plan terms and conditions. Learn more about our total rewards and benefits below.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="title"&gt;Annual Base Salary&lt;/div&gt;
+&lt;div class="pay-range"&gt;$162,400&lt;span class="divider"&gt;—&lt;/span&gt;$290,000 USD&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="content-conclusion"&gt;
+&lt;p&gt;&lt;strong&gt;Total Rewards&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;At Samsara, we build for the people who keep the global economy moving. We want owners, not passengers, which is why&amp;nbsp;&lt;a href="https://www.samsara.com/company/careers/benefits"&gt;our rewards&lt;/a&gt;&amp;nbsp;are designed to fuel high-impact builders. Our compensation program delivers above-market total compensation through a combination of base salary, performance-based bonus/variable pay, and equity (for eligible roles) in a high-growth public company. We meaningfully differentiate pay for our top performers, who have the opportunity to earn above-market compensation that can outpace the broader market over time.&lt;/p&gt;
+&lt;p&gt;Beyond compensation, we provide the foundations that enable long-term success: a flexible, employee-led remote model, a professional development stipend, comprehensive health and parental leave plans, and more. If you’re ready to build for the long term and own the outcome, your journey starts here.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Flexible Working&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;At Samsara, we embrace a flexible working model that caters to the diverse needs of our teams. Our offices are open for those who prefer to work in-person and we also support remote work where it aligns with our operational requirements. For certain positions, being close to one of our offices or within a specific geographic area is important to facilitate collaboration, access to resources, or alignment with our service regions. In these cases, the job description will clearly indicate any working location requirements. Our goal is to ensure that all members of our team can contribute effectively, whether they are working on-site, in a hybrid model, or fully remotely. All offers of employment are contingent upon an individual’s ability to secure and maintain the legal right to work at the company and in the specified work location, if applicable.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Belonging at Samsara&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;At Samsara, we welcome everyone regardless of their background. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, gender, gender identity, sexual orientation, protected veteran status, disability, age, and other characteristics protected by law. We depend on the unique approaches of our team members to help us solve complex problems and want to ensure that Samsara is a place where people from all backgrounds can make an impact.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;To apply:&lt;/strong&gt; &lt;a href="https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer"&gt;https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Mon, 17 Aug 2026 13:57:14 +0000</pubDate>
+      <guid>https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer</guid>
+      <link>https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer</link>
+    </item>
+    <item>
+      <title>Maven Clinic: Director, Marketing Operations</title>
+      <region>Anywhere in the World</region>
+      <category>Full-Stack Programming</category>
+      <description>
+
+&lt;p&gt;
+  &lt;strong&gt;Headquarters:&lt;/strong&gt; New York, NY; Remote, US (Hub cities)
+&lt;/p&gt;
+
+&lt;div class="content-intro"&gt;&lt;p&gt;Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and family building, maternity and newborn care, parenting and pediatrics, and menopause and midlife — improving clinical outcomes, reducing healthcare costs, and expanding equitable access to high-quality care at scale. Through its consumer platform, Maven provides direct access to virtual care across 30+ specialties, as well as dedicated hormone and GLP-1 care programs purpose-built for women. Founded in 2014 by CEO Kate Ryder, Maven Clinic has raised more than $425 million from leading healthcare and technology investors including General Catalyst, Sequoia, Dragoneer Investment Group, Oak HC/FT, StepStone Group, Icon Ventures, and Lux Capital. Recognized for innovation and industry leadership, Maven has been named to the TIME100 Most Influential Companies, CNBC Disruptor 50, Fast Company's Most Innovative Companies, and FORTUNE Best Places to Work. Learn more at mavenclinic.com&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;An award-winning culture working towards an important mission –&amp;nbsp; Maven Clinic is a recipient of over 30 workplace and innovation awards, including:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;TIME 100 Most Influential Companies (2023, 2026)&lt;/li&gt;
+&lt;li&gt;Fortune Change the World (2024)&lt;/li&gt;
+&lt;li&gt;CNBC Disruptor 50 List (2022, 2023, 2024)&lt;/li&gt;
+&lt;li&gt;Fortune Best Workplaces for Millennials (2024)&lt;/li&gt;
+&lt;li&gt;Fortune Best Workplaces in Health Care (2024)&lt;/li&gt;
+&lt;li&gt;Fast Company Most Innovative Companies (2020, 2023)&lt;/li&gt;
+&lt;li&gt;Fortune Best Workplaces NY (2020, 2021, 2022, 2023, 2024)&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;About the Role:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Maven is looking for a Director of Marketing Operations who will own the systems, data, and reporting infrastructure behind our B2B Growth Marketing team — from HubSpot/Salesforce instrumentation to pipeline attribution to the budget that funds it all. This person will lead a team across marketing analytics, marketing operations, and web optimization, and serve as the go-to partner for Sales, RevOps, Strategic Finance, and Client Success on shared data and reporting. Reporting to the Senior Director of Growth, they'll bring structure and rigor to a fast-moving org, ensuring marketing's numbers hold up in front of executive leadership.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What You’ll Do:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Marketing Technology, Data &amp;amp; Attribution&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;HubSpot instrumentation (and its integration with Salesforce): own lead management strategy, campaign orchestration and tracking, and stage definitions for the B2B funnel.&lt;/li&gt;
+&lt;li&gt;Pipeline attribution: own marketing's multi-touch attribution methodology and represent it in cross-team pipeline conversations.&lt;/li&gt;
+&lt;li&gt;Data governance: maintain data dictionaries and definitions (MQL/MQA thresholds, pipeline vs. bookings vs. revenue) so reporting stays consistent as tools and AI use expand.&lt;/li&gt;
+&lt;li&gt;Martech stack: own B2B-facing tools and integrations, including CaliberMind, GA4, HubSpot, Qualified, Webflow, and evaluate new tooling as needs evolve.&lt;/li&gt;
+&lt;li&gt;Training and enablement: ensure the has the resources and knowledge to own the reporting and orchestration of their channels.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Analytics &amp;amp; Reporting&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;KPI ownership: define and maintain B2B marketing metrics (MQLs, MQAs, pipeline coverage, Pipe-Spend ratio) and the reporting cadence behind them.&lt;/li&gt;
+&lt;li&gt;Executive reporting: build and deliver pipeline briefings and performance readouts for B2B marketing leadership.&lt;/li&gt;
+&lt;li&gt;Dashboards: own the B2B analytics stack across CaliberMind, Looker, Data Studio, Salesforce, and GA4, and keep it accurate as definitions change.&lt;/li&gt;
+&lt;li&gt;FY planning support: partner with Strategic Finance and RevOps on fiscal year target-setting, run-rate projections, and scenario modeling for B2B pipeline and budget as well as org-level OKR setting.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Budget &amp;amp; Planning&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Budget ownership: oversee the B2B marketing budget, including forecast, actuals, monthly reconciliation, and shifts across programs and months.&lt;/li&gt;
+&lt;li&gt;Vendor management: track spend and manage relationships with external vendors.&lt;/li&gt;
+&lt;li&gt;FY planning: lead annual and quarterly budgeting and planning for B2B Growth Marketing in partnership with Strategic Finance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Marketing Website &amp;amp; CRO&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Marketing website: manage the web team that owns navigation, landing pages, and on-page SEO/AEO for the Enterprise/B2B experience.&lt;/li&gt;
+&lt;li&gt;Testing and optimization: run a structured A/B testing and CRO program for B2B landing pages.&lt;/li&gt;
+&lt;li&gt;Accessibility: maintain WCAG 2.1 AA compliance across the B2B site experience.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Team Leadership &amp;amp; Cross-Functional Partnership&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;People leadership: manage and develop a team covering marketing analytics, marketing operations, and web optimization.&lt;/li&gt;
+&lt;li&gt;Process and tooling: set the team's operating rhythm and own its project management tooling (Asana and Jira).&lt;/li&gt;
+&lt;li&gt;Builds with AI: personally build AI-powered workflows for reporting, analysis, and campaign operations that enable the team to make better decisions and scale without additional headcount.&lt;/li&gt;
+&lt;li&gt;AI enablement: lead rollout of AI tools within B2B Growth Marketing, including data governance for tools connected to live CRM and marketing data, and set the team's judgment for where AI helps and where it doesn't.&lt;/li&gt;
+&lt;li&gt;Cross-functional partnership: serve as B2B Growth Marketing's primary point of contact for Sales, SDR, RevOps, Strategic Finance, and Client Success on shared data, process, and reporting questions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;What You’ll Bring:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;8+ years in B2B marketing operations, analytics, or revenue operations, ideally supporting complex or enterprise sales cycles.&lt;/li&gt;
+&lt;li&gt;Hands-on ownership of a marketing automation platform (HubSpot or similar) and the integration with Salesforce, including lead routing, lifecycle stages, and campaign orchestration.&lt;/li&gt;
+&lt;li&gt;Experience building and defending pipeline or marketing attribution models with Sales and Finance stakeholders.&lt;/li&gt;
+&lt;li&gt;Track record owning multi-million dollar marketing budgets, including forecasting, actuals, and reconciliation.&lt;/li&gt;
+&lt;li&gt;Experience owning a B2B marketing website and CRO program, including A/B testing and accessibility standards.&lt;/li&gt;
+&lt;li&gt;Experience managing and developing a high performance team.&lt;/li&gt;
+&lt;li&gt;Sharp, direct communicator, comfortable presenting pipeline and Marketing performance data to executive leadership.&lt;/li&gt;
+&lt;li&gt;Comfortable operating in a fast-changing org structure and building processes from ambiguity.&lt;/li&gt;
+&lt;li&gt;Experience rolling out AI tools within a marketing team, with an eye toward data governance and accuracy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The base salary range for this role is $170,000 - $200,000 per year. You will also be entitled to receive equity and benefits. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, and skillset.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This role requires active work authorization in the US.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Maven embraces a flexible hybrid work model. Our teams primarily operate from the New York Metropolitan area, NY, and remotely via San Francisco/Bay Area, CA, Seattle, WA. For those in our New York City office, we encourage in-person collaboration by requiring team members to work onsite three days a week&amp;nbsp; (Tuesday, Wednesday, Thursday). For those based in Boston, DC, Chicago, Seattle, and San Francisco, we encourage in-person collaboration by requiring team members to attend monthly Work Together Days within these cities. This policy aims to balance remote work flexibility with the benefits of face-to-face interaction.&lt;/p&gt;&lt;div class="content-conclusion"&gt;&lt;p class="p1"&gt;At Maven we believe that a diverse set of backgrounds and experiences enrich our teams and allow us to achieve above and beyond our goals. If you do not have experience in all of the areas detailed above, we hope that you will share your unique background with us in your application and how it can be additive to our teams.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Benefits That Work For You&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Our benefits are designed to support your health, well-being and career development, helping you thrive both personally and professionally. We remain focused on providing a competitive benefits package for our employees. On top of standards such as employer-covered health, dental, and insurance plan options, we offer an inclusive approach to benefits:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Maven for Mavens: access to the full platform and specialists, including care for mental health, reproductive health, family planning and pediatrics.&lt;/li&gt;
+&lt;li&gt;Whole-self care through wellness partnerships&lt;/li&gt;
+&lt;li&gt;Hybrid work, in office meals, and work together days&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;16 weeks 100% paid parental leave and new parent stipend (for Mavens who've been with us for 1 year+)&lt;/li&gt;
+&lt;li&gt;Annual professional development stipend and access to a personal career coach through Maven for Mavens&lt;/li&gt;
+&lt;li&gt;401K matching for US-based employees, with immediate vesting&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;These benefits are applicable to Maven Clinic Co., US-based, full-time employees only. 1099/Contract Providers are ineligible for these benefits.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Maven is an affirmative action and equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, disability, age, sexual orientation, gender identity, national origin, veteran status, or genetic information. Maven is committed to providing access, equal opportunity and reasonable accommodation for individuals with disabilities in employment, its services, programs, and activities. Maven Clinic interview requests and job offers only originate from an @mavenclinic.com email address (e.g jsmith@mavenclinic.com). Maven Clinic will never ask for sensitive information to be delivered over email or phone. &lt;span&gt;If you receive a scam issue or a security issue involving Maven Clinic please notify us at: &lt;/span&gt;&lt;a href="mailto:security@mavenclinic.com"&gt;&lt;span&gt;security@mavenclinic.com&lt;/span&gt;&lt;/a&gt;&lt;span&gt;. &lt;/span&gt;For general and additional inquiries, please contact us at&amp;nbsp;&lt;a href="mailto:careers@mavenclinic.com"&gt;careers@mavenclinic.com&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;To apply:&lt;/strong&gt; &lt;a href="https://weworkremotely.com/remote-jobs/maven-clinic-director-marketing-operations"&gt;https://weworkremotely.com/remote-jobs/maven-clinic-director-marketing-operations&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Fri, 16 Oct 2026 07:31:00 +0000</pubDate>
+      <guid>https://weworkremotely.com/remote-jobs/maven-clinic-director-marketing-operations</guid>
+      <link>https://weworkremotely.com/remote-jobs/maven-clinic-director-marketing-operations</link>
+    </item>
+    <item>
+      <title>Fivetran : Global Alliance Lead, Capgemini</title>
+      <region>Anywhere in the World</region>
+      <category>Full-Stack Programming</category>
+      <description>
+
+&lt;p&gt;
+  &lt;strong&gt;Headquarters:&lt;/strong&gt; Remote, Colorado, United States, AMER
+&lt;/p&gt;
+
+&lt;div class="content-intro"&gt;&lt;p&gt;From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizations continue to leverage our technology every day to become truly data-driven.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span&gt;&lt;strong&gt;About Us&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Fivetran and dbt Labs are bringing together two industry-leading companies with a shared mission: helping organizations unlock the full value of their data. Together, we’re delivering the data infrastructure layer that helps organizations move, transform, and trust their data — from the moment data moves, through every transformation, to the context teams and AI systems rely on. Fivetran helps organizations automate data movement across the systems, clouds, engines, and tools they rely on. dbt Labs pioneered analytics engineering, helping teams transform data into reliable, governed insights. Together, we support thousands of organizations as they build a trusted foundation for analytics, AI, and better business decisions.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;As we bring our teams and technology together, we’re building on the strengths of both companies while continuing to deliver the products and experiences our customers know and trust. It’s an exciting time to join us: we’re creating a company with the scale, talent, and technology to help more organizations put their data to work with greater speed, confidence, and impact. During this transition period, you may see references to both Fivetran and dbt Labs throughout our recruiting process as we integrate our teams, systems, and career sites.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;The Global Alliance Lead is one of the most strategically important roles in our Ecosystem. You will own our relationship with one of the world's leading technology and transformation partners end-to-end — from C-suite engagement through to practitioner enablement and joint pipeline creation. You will be the architect of how the GSI and NewCo go to market together, ensuring our platform becomes the trusted data foundation inside the GSI’s agentic AI delivery practice globally.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;This is a senior individual contributor role reporting to the Global Head of GSI Relationships. You will orchestrate across sales, partner solution architecture, marketing, and partner operations — bringing the full weight of the organisation to bear on one of our highest-leverage commercial relationships.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;What You'll Do&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;em&gt;Relationship strategy and executive engagement&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;Own the global GSI relationship at partner and C-suite level, building trusted relationships with Client, practice and delivery team leads.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Define and execute a multi-year joint strategy that positions dbt + Fivetran as the default open data infrastructure layer within the GSI’s enterprise AI and agentic workflow delivery&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Represent NewCo at GSI’s internal forums, client briefings, and industry events — articulating a compelling narrative around open data infrastructure and its relevance to the GSI’s strategy.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;&lt;em&gt;Platform integration and practitioner adoption&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;Drive adoption of the dbt + Fivetran platform within GSI delivery teams — ensuring practitioners, solution architects and practice leads are certified, confident, and actively recommending the platform in client engagements&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Work with GSI's practice leadership to embed NewCo's platform into their business groups, standard delivery architectures, RFP responses and client proposals — with particular focus on GSI's Data &amp;amp; AI practices&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;&lt;em&gt;Enablement and go-to-market&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;Design and execute a frictionless enablement programme for GSI practitioners globally — certifications, reference architectures, use case playbooks, and joint delivery assets&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Partner with GSI's marketing and alliances teams to develop joint go-to-market campaigns anchored to open data infrastructure, trusted AI delivery, and closing the gap between AI POC and production&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Support GSI in building and positioning client-facing agentic AI value accelerators — with NewCo platform as the foundational data layer — the "NewCo inside" model&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;&lt;em&gt;Pipeline and opportunity development&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;Source and develop new pipeline opportunities through the GSI relationship — identifying client situations where open data infrastructure creates measurable value.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Drive co-sell motions alongside GSI account teams, ensuring NewCo is present and influential at the point of client opportunity&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Maintain a rigorous view of GSI-engaged pipeline — tracking opportunity sourcing, progression, and closed business attributed to the alliance&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;&lt;em&gt;Telemetry and performance&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;Define and track the signals that indicate a healthy, high-performing GSI relationship: certifications, sourced opportunities, platform deployments, practitioner engagement, and joint wins&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Report regularly to the Global Head of GSI Relationships on alliance health, pipeline contribution, and strategic progress&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Identify risks and gaps in the relationship early and mobilise internal resources to address them&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;What you will bring&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;15+ years of experience in strategic alliances, enterprise sales, or partner management within the data, cloud, or enterprise software industry&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Demonstrated experience managing complex, global relationships with major consulting firms or global system integrators at a senior level&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Deep understanding of the modern data stack and the business value of open data infrastructure — dbt, Fivetran, or equivalent experience strongly preferred&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Ability to engage credibly at C-suite and partner level within a global consulting organisation — understanding how GSIs make decisions, build practices, and go to market&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Strong commercial instincts — able to identify, thoroughly qualify and develop joint pipeline opportunities, not just manage existing relationships&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Track record of operating as a cross-functional orchestrator — influencing without direct authority across sales, engineering, marketing, and operations&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Exceptional communication and storytelling skills — able to translate technical platform capabilities into compelling business narratives for consulting and enterprise audiences&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Familiarity with AI, agentic workflows, and the data governance landscape is a strong advantage + strong knowledge of GSI's operating model and contacts within.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Willingness to travel globally to engage GSI leadership and teams across regions&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;What Success Looks Like in Year One&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;A clearly defined joint strategy with GSI signed off at partner Executive level and on track to primary Global Strategic Practice.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Material increase in GSI practitioner certifications and active platform deployments across Data &amp;amp; AI and Insights &amp;amp; Data practices&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;GSI-sourced pipeline contributing measurably to NewCo's revenue&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;At least two joint go-to-market campaigns live in the market delivering pipeline — anchored to GSI's agentic AI and trusted data agenda&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;First client-facing agentic value accelerators built on NewCo platform delivered with GSI — positioning NewCo as the trusted data infrastructure inside GSI's AI delivery&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;A telemetry framework in place tracking alliance health and pipeline influence&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;Why This Role&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;This is a rare opportunity to own a marquee relationship at a defining moment for both companies. GSI’s are publicly committing to capturing the full value of the agentic AI revolution for customers&amp;nbsp; — and the merged dbt + Fivetran platform is the trusted data infrastructure that makes AI production-ready. The person who builds this alliance well will sit at the intersection of the two most important forces in enterprise technology right now: the scale of a global systems integrator and the open infrastructure that makes AI trustworthy enough to deploy at scale.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;This position qualifies for Fivetran’s incentive plan, and it’s common for employees in this role to achieve the total on-target earnings.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;#LI-Remote&lt;/span&gt;&lt;/p&gt;&lt;div class="content-pay-transparency"&gt;&lt;div class="pay-input"&gt;&lt;div class="description"&gt;&lt;p&gt;The compensation range displayed on this job posting reflects the minimum and maximum target for new hire compensation for the target position and level, and may include sales incentives or target bonuses depending on the role. &amp;nbsp;Our compensation ranges are determined by role, level, and location. Our job titles may span more than one career level. Within the range, individual compensation is determined by additional factors, including job-related skills, experience, relevant education or training, business need, market demands. The compensation range is subject to change and may be modified in the future. Your recruiter can share more about the specific compensation range for your location during the hiring process.&lt;/p&gt;&lt;/div&gt;&lt;div class="title"&gt;Denver Pay Range&lt;/div&gt;&lt;div class="pay-range"&gt;&lt;span&gt;$165,739&lt;/span&gt;&lt;span class="divider"&gt;—&lt;/span&gt;&lt;span&gt;$196,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="pay-input"&gt;&lt;div class="title"&gt;OTE (On Target Earning)&lt;/div&gt;&lt;div class="pay-range"&gt;&lt;span&gt;$236,774&lt;/span&gt;&lt;span class="divider"&gt;—&lt;/span&gt;&lt;span&gt;$280,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="content-conclusion"&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class="p-rich_text_section"&gt;&lt;strong&gt;Perks and Benefits&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;100% employer-paid medical insurance&lt;strong&gt;*&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Generous paid time away from work, including paid vacation or flexible/unlimited vacation depending on role and country, plus paid sick time, inclusive parental leave, paid holidays, including a year-end Global Week of Rest, and volunteer days off.&lt;/li&gt;
+&lt;li&gt;RSU stock grants*&lt;/li&gt;
+&lt;li&gt;Professional development and training opportunities&lt;/li&gt;
+&lt;li&gt;Company virtual happy hours, free food, and fun team-building activities&lt;/li&gt;
+&lt;li&gt;Monthly cell phone stipend&lt;/li&gt;
+&lt;li&gt;Access to an innovative mental health support platform that offers personalized care and resources in areas such as: therapy, coaching, and self-guided mindfulness exercises for all covered employees and their covered dependents.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;*&lt;/strong&gt;May vary by country and worker type - please reach out to your recruiter for more information&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Click &lt;a href="https://drive.google.com/drive/folders/1CdawUwjo1Q1B7ghZJ_owdmmHB8VtqhBu?usp=sharing"&gt;here&lt;/a&gt; to learn more about Fivetran's Benefits by Region.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;We’re honored to be &lt;a class="c-link" href="https://fivetran.com/blog/hvr-acquisition-series-d"&gt;valued at over $5.6 billion&lt;/a&gt;, but more importantly, we’re proud of our&amp;nbsp;&lt;a class="c-link" href="https://fivetran.com/culture"&gt;core values of Get Stuck In, Do the Right Thing, and One Team, One Dream&lt;/a&gt;. Read about us in&amp;nbsp;&lt;a class="c-link" href="https://fivetran-com.s3.amazonaws.com/news/forbes-aug-sept-2022-digital-reprint-10-21-22.pdf"&gt;Forbes&lt;/a&gt;.&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Fivetran brings together high-quality talent across the globe to make data access as easy and reliable as electricity for our customers. We value and recognize that our customers benefit from having innovative teams made of people from many backgrounds, experiences, and identities. Fivetran promotes diversity, equity, inclusion &amp;amp; belonging through attracting, recruiting, developing, and retaining a diverse workforce, not only because it is the right thing to do, but because it helps us build a world-class company to better serve our customers, our people and our communities.&lt;/p&gt;
+&lt;p&gt;To learn more about Fivetran’s culture and what it’s like to be part of the team, &lt;a href="https://www.youtube.com/watch?v=xlhtp4dGh8o"&gt;click here&lt;/a&gt; and enjoy our video.&lt;/p&gt;
+&lt;p&gt;To learn more about our candidate privacy policy, you can &lt;a href="https://fivetran.com/candidate-privacy"&gt;read our statement here&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;We are committed to ensuring that all candidates have an equal opportunity to participate in our interview process. If you require accommodations at any stage of the process due to a disability, medical condition, or any other circumstance, please don't hesitate to submit your request by filling out this &lt;a href="https://forms.gle/V7k3t4u9j523XkEt6"&gt;form&lt;/a&gt;. We will work with you to provide reasonable accommodations to facilitate your participation and ensure a fair and accessible interview experience. Your request and any information provided will be kept confidential and will not impact your candidacy. We look forward to hearing from you and accommodating your needs to the best of our ability.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;To apply:&lt;/strong&gt; &lt;a href="https://weworkremotely.com/remote-jobs/fivetran-global-alliance-lead-capgemini"&gt;https://weworkremotely.com/remote-jobs/fivetran-global-alliance-lead-capgemini&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Fri, 16 Oct 2026 07:30:50 +0000</pubDate>
+      <guid>https://weworkremotely.com/remote-jobs/fivetran-global-alliance-lead-capgemini</guid>
+      <link>https://weworkremotely.com/remote-jobs/fivetran-global-alliance-lead-capgemini</link>
+    </item>
+    <item>
+      <media:content url="https://wwr-pro.s3.amazonaws.com/logos/0171/6591/logo.gif" type="image/png"/>
+      <title>Askable: Software Engineer, AI Coding Tasks (Contract) </title>
+      <region>Anywhere in the World</region>
+      <category>Full-Stack Programming</category>
+      <description>&lt;img src="https://we-work-remotely.imgix.net/logos/0171/6591/logo.gif?ixlib=rails-4.0.0&amp;w=50&amp;h=50&amp;dpr=2&amp;fit=fill&amp;auto=compress" /&gt;
+
+&lt;p&gt;
+  &lt;strong&gt;Headquarters:&lt;/strong&gt; Australia 
+    &lt;br /&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://www.askablelabs.com/"&gt;https://www.askablelabs.com/&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$1,000 per task, and you can do as many tasks as you want.&lt;/p&gt;
+&lt;p&gt;You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models, but fair for a skilled engineer. Your tasks are used to measure and train AI coding models.&lt;/p&gt;
+&lt;p&gt;Remote, any location. US$1,000 per task that passes review. Minimum of one task a week, about 10 hours a week.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How it works&lt;/strong&gt;&lt;/p&gt;
+&lt;ol class="iiilu2 iiil4m iiimkb"&gt;
+&lt;li&gt;&lt;strong&gt;Apply. &lt;/strong&gt;Complete a short screener interview and upload your resume.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Propose.&lt;/strong&gt; Once you're selected, pick a change from a repository you know and submit a short proposal. We approve it or suggest a better candidate.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Build.&lt;/strong&gt; In our platform, set up the repository as it was before the change, then write the brief, the correct solution and the grading checks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stress-test. &lt;/strong&gt;Try lazy, incorrect and shortcut solutions and make sure your checks catch them.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Model testing.&lt;/strong&gt; Run your task against leading AI models until strong models often fail but a skilled engineer can clearly solve it.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Review.&lt;/strong&gt; A reviewer checks your task and you revise it. Most tasks take more than one round.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Next task.&lt;/strong&gt; Once your task is accepted, start another.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul class="iiilu2 iiil4n iiimkb"&gt;
+&lt;li&gt;2+ years of professional software engineering&lt;/li&gt;
+&lt;li&gt;Code merged into a public open-source repository, ideally one you know well. A private codebase you own may also qualify (not employer or client code)&lt;/li&gt;
+&lt;li&gt;Strong in at least one of Python, TypeScript, Go, Rust, Java or C++&lt;/li&gt;
+&lt;li&gt;Solid with Docker, Linux, Git and automated testing&lt;/li&gt;
+&lt;li&gt;Regular use of an AI coding tool&lt;/li&gt;
+&lt;li&gt;Experience writing tests, rubrics or evaluation criteria, ideally for AI models&lt;/li&gt;
+&lt;li&gt;You can explain a change clearly and concisely, in your own words&lt;/li&gt;
+&lt;li&gt;At least 10 hours a week, starting now&lt;/li&gt;
+&lt;li&gt;A secure personal or work computer (no public or shared machines)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Nice to have&lt;/strong&gt;&lt;/p&gt;
+&lt;ul class="iiilu2 iiil4n iiimkb"&gt;
+&lt;li&gt;Deep expertise in one area, such as databases, compilers, distributed systems, security or infrastructure&lt;/li&gt;
+&lt;li&gt;Experience building agent tasks or RL environments&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Terms&lt;/strong&gt;&lt;/p&gt;
+&lt;ul class="iiilu2 iiil4n iiimkb"&gt;
+&lt;li&gt;US$1,000 for each task that passes our quality review, paid directly to you&lt;/li&gt;
+&lt;li&gt;Once your proposal is qualified, you sign Askable's contract and accept its terms&lt;/li&gt;
+&lt;li&gt;The work is used for AI training. The change and your solution must be your own, and you must be free to license them to us&lt;/li&gt;
+&lt;li&gt;Don't publish the work anywhere: no public pull request or public fork&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Apply at https://www.askable.com/experts/roles/senior-software-engineer&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;To apply:&lt;/strong&gt; &lt;a href="https://weworkremotely.com/remote-jobs/askable-software-engineer-ai-coding-tasks-contract"&gt;https://weworkremotely.com/remote-jobs/askable-software-engineer-ai-coding-tasks-contract&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Fri, 16 Oct 2026 00:50:53 +0000</pubDate>
+      <guid>https://weworkremotely.com/remote-jobs/askable-software-engineer-ai-coding-tasks-contract</guid>
+      <link>https://weworkremotely.com/remote-jobs/askable-software-engineer-ai-coding-tasks-contract</link>
+    </item>
+  </channel>
+</rss>

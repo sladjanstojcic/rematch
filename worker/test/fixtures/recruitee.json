@@ -1,0 +1,565 @@
+{
+  "_source": "https://jobs.recruitee.com/api/offers/",
+  "_capturedAt": "2026-11-05T16:54:36.032071+00:00",
+  "_userAgent": "RematchBot/0.1 (+https://github.com/rematch-app)",
+  "_responseSha256": "b1fceb4c730dfb9e1c8b0de6754625f1b3ba78726e4193e4ae674e1035d7d57a",
+  "_originalCount": 11,
+  "_selection": "First three jobs; job fields unchanged. Lever array wrapped in jobs for fixture metadata.",
+  "_httpStatus": 200,
+  "_documentation": "https://docs.recruitee.com/reference/offers",
+  "_accessNotes": "Careers Site API displays published offers. Token becomes mandatory on 2027-02-10 per https://docs.recruitee.com/reference/authentication-1; capture succeeded unauthenticated. No additional attribution requirement identified in reviewed API docs.",
+  "_mappingNotes": "published_at uses YYYY-MM-DD HH:mm:ss UTC; convert to explicit ISO UTC. Decimal-string salary amounts are numbers, null stays unknown. Include requirements when present. remote is used verbatim; careers_url and careers_apply_url are preserved.",
+  "_creditPolicy": "Rematch credits every source via its display name and homepage; this is not a claim of a general redistribution license.",
+  "offers": [
+    {
+      "options_salutation": "off",
+      "options_phone": "required",
+      "position": 507,
+      "max_hours": null,
+      "options_cv": "required",
+      "min_hours": 40,
+      "careers_apply_url": "https://careers.tellent.com/o/customer-success-manager-tellent-hr/c/new",
+      "mailbox_email": "job.3yfy2@jobs.recruitee.com",
+      "sharing_title": "Customer Success Manager (Tellent HR)",
+      "options_cover_letter": "optional",
+      "published_at": "2026-10-28 14:11:44 UTC",
+      "slug": "customer-success-manager-tellent-hr",
+      "translations": {
+        "en": {
+          "description": "<p><span style=\"color:#121317\">Join our new Tellent HR squad and help shape the customer experience from the ground up. You’ll own the full customer journey, from onboarding and adoption through retention and growth, while helping us build the playbooks, processes, and ways of working the squad will scale on. Most of your time is spent with customers, with space to develop strategy and improve how we work. If you’re energised by ambiguity and want to build something meaningful in a growing SaaS business, this is for you.</span></p><h4><strong><span style=\"color:#121317\">Your 12-Month Journey</span></strong></h4><ul><li><p><strong><span style=\"color:#121317\">During the first 3 months:</span></strong><span style=\"color:#121317\"> Learn the product and our customers, build internal relationships, and start one-to-one customer conversations to understand your portfolio’s value and risk.</span></p></li><li><p><strong><span style=\"color:#121317\">Within 6 months:</span></strong><span style=\"color:#121317\"> Independently manage a customer portfolio across onboarding, adoption, renewals, and health, and contribute to repeatable processes and reporting.</span></p></li><li><p><strong><span style=\"color:#121317\">After 1 year:</span></strong><span style=\"color:#121317\"> Become a trusted expert in the Tellent HR customer journey and help move us toward scalable, one-to-many programmes.</span></p></li></ul><h4><strong><span style=\"color:#121317\">What You’ll Be Doing</span></strong></h4><ul><li><p><strong><span style=\"color:#121317\">Own the customer journey:</span></strong><span style=\"color:#121317\"> Guide customers through onboarding, adoption, renewal, and growth so they get real value from Tellent HR.</span></p></li><li><p><strong><span style=\"color:#121317\">Manage health and risk:</span></strong><span style=\"color:#121317\"> Spot early warning signs, build action plans for at-risk customers, and handle escalations with the right internal support.</span></p></li><li><p><strong><span style=\"color:#121317\">Drive retention and growth:</span></strong><span style=\"color:#121317\"> Own the CS activities behind GRR and NRR, and pass qualified cross-sell and upsell leads to Sales.</span></p></li><li><p><strong><span style=\"color:#121317\">Build from scratch:</span></strong><span style=\"color:#121317\"> Help create playbooks, processes, reporting, forecasting, and tooling for the new squad.</span></p></li><li><p><strong><span style=\"color:#121317\">Scale our approach:</span></strong><span style=\"color:#121317\"> Start high-touch and one-to-one, then help develop one-to-many programmes as patterns emerge.</span></p></li><li><p><strong><span style=\"color:#121317\">Collaborate:</span></strong><span style=\"color:#121317\"> Work closely with Onboarding, Customer Success, Product, Support, and Sales, and bring customer feedback and market insights back to the business.</span></p></li></ul><h4><strong><span style=\"color:#121317\">What You Bring</span></strong></h4><ul><li><p><span style=\"color:#121317\">Experience in a customer-facing B2B SaaS role (Customer Success, Account Management, Onboarding, Implementation, or similar) and an understanding of how value, retention, and growth connect.</span></p></li><li><p><span style=\"color:#121317\">Strong written and verbal communication skills in English (minimum C1 level or higher). Dutch/German are a big plus.</span></p></li><li><p><span style=\"color:#121317\">Comfort with ambiguity and a drive to build structure where none exists.</span></p></li><li><p><span style=\"color:#121317\">A balance of hands-on execution and strategic thinking, in a role that is primarily customer-facing.</span></p></li><li><p><span style=\"color:#121317\">Confidence handling escalations and bringing the right people together.</span></p></li></ul><h4><strong><span style=\"color:#121317\">What We Offer</span></strong></h4><ul><li><p><span style=\"color:#121317\">Hybrid working from our canal-side Amsterdam office</span></p></li><li><p><span style=\"color:#121317\">Diverse and international team environment</span></p></li><li><p><span style=\"color:#121317\">€1,500 annual learning budget + 2 dedicated learning days</span></p></li><li><p><span style=\"color:#121317\">Pension plan, wellness perks &amp; commuting/travel reimbursement</span></p></li><li><p><span style=\"color:#121317\">28 paid holiday days + 2 additional days in 2026</span></p></li><li><p><span style=\"color:#121317\">Work from anywhere for up to 4 weeks per year</span></p></li><li><p><span style=\"color:#121317\">Apple MacBook and all the tools you need to succeed</span></p></li><li><p><span style=\"color:#121317\">€200 home office budget + work-from-home allowance</span></p></li></ul><h4><strong><span style=\"color:#121317\">About Tellent</span></strong></h4><p style=\"text-align:start;\"><span style=\"color:#121317\">Tellent is a leading Talent Management Suite designed to empower HR &amp; People teams across the entire employee journey. Our all-in-one platform combines an Applicant Tracking System (</span><strong><span style=\"color:#121317\">Tellent Recruitee</span></strong><span style=\"color:#121317\">), an intuitive HRIS (</span><strong><span style=\"color:#121317\">Tellent HR</span></strong><span style=\"color:#121317\">), and powerful Performance Management software (</span><strong><span style=\"color:#121317\">Tellent Grow</span></strong><span style=\"color:#121317\">).</span></p><p style=\"text-align:start;\"><span style=\"color:#121317\">With 250+ team members globally, 7,000+ customers in 100+ countries, and a growing ecosystem of 500+ partners, we help organizations attract, grow, and retain top talent — and we’re just getting started.</span></p><h4><strong><span style=\"color:#121317\">AI in our recruitment process</span></strong></h4><p style=\"text-align:start;\"><span style=\"color:#121317\">We use our internally developed AI tools to help streamline our recruitment process. However, technology never makes a decision. Every candidate is personally reviewed by our team. Your journey with us is guided by people, supported by tech. Curious about how it works? Read our&nbsp;</span><a rel=\"noopener\" target=\"_blank\" href=\"https://recruitee.com/ai-statement\"><span style=\"color:#121317\">AI Statement</span></a><span style=\"color:#121317\">, check our&nbsp;</span><a rel=\"noopener\" target=\"_blank\" href=\"https://recruitee.com/privacy-policy\"><span style=\"color:#121317\">Privacy Policy</span></a><span style=\"color:#121317\">, or chat with us at&nbsp;</span><a rel=\"noopener\" target=\"_blank\" href=\"mailto:hr@tellent.com\"><span style=\"color:#121317\">hr@tellent.com</span></a><span style=\"color:#121317\">.</span></p><p style=\"text-align:start;\"><em><span style=\"color:#121317\">If you require accommodations or support during the recruitment process, please let us know — we’re happy to help.</span></em></p>",
+          "title": "Customer Success Manager (Tellent HR)",
+          "highlight": null,
+          "requirements": null,
+          "sharing_image": null,
+          "locations_question": "What is your preferred work location?",
+          "sharing_description": "Join our new Tellent HR squad and help shape the customer experience from the ground up. You’ll own the full customer journey, from onboarding and adoption through retention and growth, while helping ",
+          "sharing_title": "Customer Success Manager (Tellent HR)"
+        }
+      },
+      "sharing_image": null,
+      "country_code": "NL",
+      "close_at": null,
+      "cover_image": null,
+      "salary": {
+        "max": "65000",
+        "min": "55000",
+        "period": "year",
+        "currency": "EUR"
+      },
+      "locations_question_required": true,
+      "city": "Amsterdam",
+      "state_code": "NH",
+      "highlight": null,
+      "options_title": "off",
+      "country": "Netherlands",
+      "tags": [],
+      "requirements": null,
+      "state_name": "Noord-Holland",
+      "category_code": "sales",
+      "locations_question": "What is your preferred work location?",
+      "title": "Customer Success Manager (Tellent HR)",
+      "dynamic_fields": [],
+      "created_at": "2026-10-26 10:28:49 UTC",
+      "careers_url": "https://careers.tellent.com/o/customer-success-manager-tellent-hr",
+      "sharing_description": "Join our new Tellent HR squad and help shape the customer experience from the ground up. You’ll own the full customer journey, from onboarding and adoption through retention and growth, while helping ",
+      "description": "<p><span style=\"color:#121317\">Join our new Tellent HR squad and help shape the customer experience from the ground up. You’ll own the full customer journey, from onboarding and adoption through retention and growth, while helping us build the playbooks, processes, and ways of working the squad will scale on. Most of your time is spent with customers, with space to develop strategy and improve how we work. If you’re energised by ambiguity and want to build something meaningful in a growing SaaS business, this is for you.</span></p><h4><strong><span style=\"color:#121317\">Your 12-Month Journey</span></strong></h4><ul><li><p><strong><span style=\"color:#121317\">During the first 3 months:</span></strong><span style=\"color:#121317\"> Learn the product and our customers, build internal relationships, and start one-to-one customer conversations to understand your portfolio’s value and risk.</span></p></li><li><p><strong><span style=\"color:#121317\">Within 6 months:</span></strong><span style=\"color:#121317\"> Independently manage a customer portfolio across onboarding, adoption, renewals, and health, and contribute to repeatable processes and reporting.</span></p></li><li><p><strong><span style=\"color:#121317\">After 1 year:</span></strong><span style=\"color:#121317\"> Become a trusted expert in the Tellent HR customer journey and help move us toward scalable, one-to-many programmes.</span></p></li></ul><h4><strong><span style=\"color:#121317\">What You’ll Be Doing</span></strong></h4><ul><li><p><strong><span style=\"color:#121317\">Own the customer journey:</span></strong><span style=\"color:#121317\"> Guide customers through onboarding, adoption, renewal, and growth so they get real value from Tellent HR.</span></p></li><li><p><strong><span style=\"color:#121317\">Manage health and risk:</span></strong><span style=\"color:#121317\"> Spot early warning signs, build action plans for at-risk customers, and handle escalations with the right internal support.</span></p></li><li><p><strong><span style=\"color:#121317\">Drive retention and growth:</span></strong><span style=\"color:#121317\"> Own the CS activities behind GRR and NRR, and pass qualified cross-sell and upsell leads to Sales.</span></p></li><li><p><strong><span style=\"color:#121317\">Build from scratch:</span></strong><span style=\"color:#121317\"> Help create playbooks, processes, reporting, forecasting, and tooling for the new squad.</span></p></li><li><p><strong><span style=\"color:#121317\">Scale our approach:</span></strong><span style=\"color:#121317\"> Start high-touch and one-to-one, then help develop one-to-many programmes as patterns emerge.</span></p></li><li><p><strong><span style=\"color:#121317\">Collaborate:</span></strong><span style=\"color:#121317\"> Work closely with Onboarding, Customer Success, Product, Support, and Sales, and bring customer feedback and market insights back to the business.</span></p></li></ul><h4><strong><span style=\"color:#121317\">What You Bring</span></strong></h4><ul><li><p><span style=\"color:#121317\">Experience in a customer-facing B2B SaaS role (Customer Success, Account Management, Onboarding, Implementation, or similar) and an understanding of how value, retention, and growth connect.</span></p></li><li><p><span style=\"color:#121317\">Strong written and verbal communication skills in English (minimum C1 level or higher). Dutch/German are a big plus.</span></p></li><li><p><span style=\"color:#121317\">Comfort with ambiguity and a drive to build structure where none exists.</span></p></li><li><p><span style=\"color:#121317\">A balance of hands-on execution and strategic thinking, in a role that is primarily customer-facing.</span></p></li><li><p><span style=\"color:#121317\">Confidence handling escalations and bringing the right people together.</span></p></li></ul><h4><strong><span style=\"color:#121317\">What We Offer</span></strong></h4><ul><li><p><span style=\"color:#121317\">Hybrid working from our canal-side Amsterdam office</span></p></li><li><p><span style=\"color:#121317\">Diverse and international team environment</span></p></li><li><p><span style=\"color:#121317\">€1,500 annual learning budget + 2 dedicated learning days</span></p></li><li><p><span style=\"color:#121317\">Pension plan, wellness perks &amp; commuting/travel reimbursement</span></p></li><li><p><span style=\"color:#121317\">28 paid holiday days + 2 additional days in 2026</span></p></li><li><p><span style=\"color:#121317\">Work from anywhere for up to 4 weeks per year</span></p></li><li><p><span style=\"color:#121317\">Apple MacBook and all the tools you need to succeed</span></p></li><li><p><span style=\"color:#121317\">€200 home office budget + work-from-home allowance</span></p></li></ul><h4><strong><span style=\"color:#121317\">About Tellent</span></strong></h4><p style=\"text-align:start;\"><span style=\"color:#121317\">Tellent is a leading Talent Management Suite designed to empower HR &amp; People teams across the entire employee journey. Our all-in-one platform combines an Applicant Tracking System (</span><strong><span style=\"color:#121317\">Tellent Recruitee</span></strong><span style=\"color:#121317\">), an intuitive HRIS (</span><strong><span style=\"color:#121317\">Tellent HR</span></strong><span style=\"color:#121317\">), and powerful Performance Management software (</span><strong><span style=\"color:#121317\">Tellent Grow</span></strong><span style=\"color:#121317\">).</span></p><p style=\"text-align:start;\"><span style=\"color:#121317\">With 250+ team members globally, 7,000+ customers in 100+ countries, and a growing ecosystem of 500+ partners, we help organizations attract, grow, and retain top talent — and we’re just getting started.</span></p><h4><strong><span style=\"color:#121317\">AI in our recruitment process</span></strong></h4><p style=\"text-align:start;\"><span style=\"color:#121317\">We use our internally developed AI tools to help streamline our recruitment process. However, technology never makes a decision. Every candidate is personally reviewed by our team. Your journey with us is guided by people, supported by tech. Curious about how it works? Read our&nbsp;</span><a rel=\"noopener\" target=\"_blank\" href=\"https://recruitee.com/ai-statement\"><span style=\"color:#121317\">AI Statement</span></a><span style=\"color:#121317\">, check our&nbsp;</span><a rel=\"noopener\" target=\"_blank\" href=\"https://recruitee.com/privacy-policy\"><span style=\"color:#121317\">Privacy Policy</span></a><span style=\"color:#121317\">, or chat with us at&nbsp;</span><a rel=\"noopener\" target=\"_blank\" href=\"mailto:hr@tellent.com\"><span style=\"color:#121317\">hr@tellent.com</span></a><span style=\"color:#121317\">.</span></p><p style=\"text-align:start;\"><em><span style=\"color:#121317\">If you require accommodations or support during the recruitment process, please let us know — we’re happy to help.</span></em></p>",
+      "min_hours_per_week": "40",
+      "remote": false,
+      "postal_code": null,
+      "guid": "3yfy2",
+      "max_hours_per_week": null,
+      "updated_at": "2026-10-28 14:13:53 UTC",
+      "company_name": "Tellent",
+      "id": 2797235,
+      "open_questions": [
+        {
+          "id": 4466241,
+          "position": 1,
+          "options": {},
+          "required": true,
+          "body": "Do you have legal right to work in the country where this role is based? (e.g., EU citizenship, HSM, orientation visa, valid permit)?",
+          "kind": "boolean",
+          "translations": {
+            "en": {
+              "body": "Do you have legal right to work in the country where this role is based? (e.g., EU citizenship, HSM, orientation visa, valid permit)?"
+            }
+          },
+          "open_question_options": []
+        },
+        {
+          "id": 4466242,
+          "position": 2,
+          "options": {},
+          "required": true,
+          "body": "Please state your desired annual salary (gross)",
+          "kind": "string",
+          "translations": {
+            "en": {
+              "body": "Please state your desired annual salary (gross)"
+            }
+          },
+          "open_question_options": []
+        },
+        {
+          "id": 4466243,
+          "position": 3,
+          "options": {},
+          "required": true,
+          "body": "Are you proficient in both written and spoken English at least at C1 level? (please note: this is a must-have requirement)",
+          "kind": "boolean",
+          "translations": {
+            "en": {
+              "body": "Are you proficient in both written and spoken English at least at C1 level? (please note: this is a must-have requirement)"
+            }
+          },
+          "open_question_options": []
+        },
+        {
+          "id": 4466244,
+          "position": 4,
+          "options": {},
+          "required": true,
+          "body": "Do you currently reside in the Netherlands?",
+          "kind": "boolean",
+          "translations": {
+            "en": {
+              "body": "Do you currently reside in the Netherlands?"
+            }
+          },
+          "open_question_options": []
+        },
+        {
+          "id": 4466245,
+          "position": 5,
+          "options": {},
+          "required": false,
+          "body": "<p><em>As English is our official company language, we kindly request that all application materials are submitted in <strong>English</strong>. Please note that applications submitted in other languages <strong>cannot be reviewed</strong>. Thank you for your understanding!</em></p>",
+          "kind": "infobox",
+          "translations": {
+            "en": {
+              "body": "<p><em>As English is our official company language, we kindly request that all application materials are submitted in <strong>English</strong>. Please note that applications submitted in other languages <strong>cannot be reviewed</strong>. Thank you for your understanding!</em></p>"
+            }
+          },
+          "open_question_options": []
+        }
+      ],
+      "locations": [
+        {
+          "id": 3513,
+          "name": "Amsterdam",
+          "state": "Noord-Holland",
+          "country": "Netherlands",
+          "city": "Amsterdam",
+          "translations": {
+            "en": {
+              "name": "Amsterdam",
+              "city": "Amsterdam",
+              "postal_code": null,
+              "street": null,
+              "note": null
+            }
+          },
+          "country_code": "NL",
+          "state_code": "NH",
+          "postal_code": null,
+          "street": null,
+          "note": null
+        }
+      ],
+      "experience_code": "mid_level",
+      "employment_type_code": "fulltime_fixed_term",
+      "options_photo": "off",
+      "on_site": false,
+      "locations_question_type": "multiple_choice",
+      "hybrid": true,
+      "department": "1. GTM",
+      "location": "Amsterdam, Noord-Holland, Netherlands",
+      "status": "published",
+      "education_code": "bachelor_degree",
+      "location_question_visible": false
+    },
+    {
+      "options_salutation": "off",
+      "options_phone": "required",
+      "position": 502,
+      "max_hours": null,
+      "options_cv": "required",
+      "min_hours": 40,
+      "careers_apply_url": "https://careers.tellent.com/o/strategic-account-manager-benelux-1/c/new",
+      "mailbox_email": "job.8ddpg@jobs.recruitee.com",
+      "sharing_title": "Strategic Account Manager - Benelux",
+      "options_cover_letter": "optional",
+      "published_at": "2026-10-05 13:25:03 UTC",
+      "slug": "strategic-account-manager-benelux-1",
+      "translations": {
+        "en": {
+          "description": "<p class=\"p2\">Grow Tellent's most strategic customers in the Netherlands and Belgium. As Strategic Account Manager Benelux, you own a portfolio of our most valuable accounts and bring them further into Tellent Recruitee, Tellent HR and Tellent Grow.</p><p class=\"p2\">Your focus is expansion: upselling, cross selling and upgrades. Customer Experience owns renewals, so your time goes into growth. It is a senior role with real autonomy. You own your portfolio, you build your own pipeline, and as the most senior account manager in the team you set the standard for how strategic accounts are run.</p><p class=\"p3\" style=\"min-height: 1.7em;\"></p><p class=\"p2\"><strong>About the team</strong></p><p class=\"p2\">You join the Benelux Account Management team in our Amsterdam office. You work closely with Customer Experience, Marketing and Revenue Operations. Together with Customer Experience you keep an eye on account health, timing and expansion readiness, so you know when a customer is ready to grow.</p><p class=\"p3\" style=\"min-height: 1.7em;\"></p><p class=\"p2\"><strong>Your 12 month journey</strong></p><p class=\"p2\"><strong>First 3 months<br></strong>You learn our products, our customers and where the expansion opportunities are. You take over your portfolio, start building account plans for your top accounts and have your first commercial conversations.</p><p class=\"p2\"><strong>Within 6 months<br></strong>You run your portfolio independently and build your own pipeline. You have strong relationships across your accounts and your discovery conversations are about business impact. In deal reviews and forecasting, your input counts.</p><p class=\"p2\"><strong>After 1 year<br></strong>You manage several complex expansion trajectories at once, backed by a healthy and well covered pipeline. You make a clear contribution to net revenue retention and you raise the commercial standard for the team.</p><p class=\"p3\" style=\"min-height: 1.7em;\"></p><p class=\"p2\"><strong>What you'll be doing</strong></p><ul class=\"ul1\"><li><p>Own and grow a portfolio of Tellent's most strategic Benelux accounts and build long term relationships with the people who decide</p></li><li><p>Drive expansion through upselling, cross selling and upgrades, bringing customers further into the Tellent platform</p></li><li><p>Build a full picture of every account: who decides, how often they hire, how their talent processes run, which agencies they work with and how the group is structured. Then spot where Tellent can add value</p></li><li><p>Write account plans that run several quarters ahead and anticipate what a customer needs before they ask</p></li><li><p>Build your own pipeline through proactive outreach</p></li><li><p>Run discovery conversations with senior stakeholders up to director level, with several contacts per account, always focused on business value</p></li><li><p>Work with Customer Experience on account health, timing and expansion readiness</p></li><li><p>Keep your pipeline, forecast and CRM in HubSpot accurate and up to date<br><br></p></li></ul><p class=\"p2\"><strong>What you bring</strong></p><ul class=\"ul1\"><li><p>Fluent Dutch (C1 or higher) and English. Dutch is a hard requirement</p></li><li><p>Commercial experience in a SaaS or tech environment, ideally in account management or expansion, with a track record of building and growing strategic accounts</p></li><li><p>You have built, managed and closed your own pipeline, and you have negotiated with several stakeholders at director level</p></li><li><p>An entrepreneurial streak. You take ownership and start things without waiting to be asked</p></li><li><p>Commercial judgement. You quantify value, build business cases that hold up and prioritise accounts by long term value</p></li><li><p>A customer first approach. You spot expansion opportunities without losing sight of the relationship</p></li><li><p>Discipline in pipeline management and CRM<br><br></p></li></ul><p class=\"p2\"><strong>Success in this role looks like</strong></p><ul class=\"ul1\"><li><p>Consistent expansion revenue from upselling, cross selling and upgrades across your portfolio</p></li><li><p>A healthy, well covered pipeline that you built yourself, with forecasts that hold</p></li><li><p>Deep relationships with several people in each of your most strategic accounts</p></li><li><p>Account plans in place and moving for your top accounts</p></li><li><p>A strong working partnership with Customer Experience<br></p></li></ul><p class=\"p3\" style=\"min-height: 1.7em;\"></p><p class=\"p2\"><strong>What we offer</strong></p><ul class=\"ul1\"><li><p>Base salary €61.500 - €70.000 per year + €35.000 Variable</p></li><li><p>Hybrid working from our beautiful canal-side office in Amsterdam</p></li><li><p>Diverse and international team environment</p></li><li><p>€1,500 annual training budget</p></li><li><p>Pension plan, wellness perks &amp; commuting/travel reimbursement</p></li><li><p>28 paid holiday days + 2 additional days in 2026</p></li><li><p>Work from anywhere for 4 weeks per year</p></li><li><p>Apple MacBook and all tools you need to succeed</p></li><li><p>€200 home office budget<br></p></li></ul><p class=\"p3\" style=\"min-height: 1.7em;\"></p><p class=\"p2\"><strong>About Tellent</strong></p><p class=\"p2\">Tellent is a leading Talent Management Suite designed to empower HR &amp; People teams across the entire employee journey. Our all-in-one platform combines an Applicant Tracking System (<strong>Tellent Recruitee</strong>), an intuitive HRIS (<strong>Tellent HR</strong>), and powerful Performance Management software (<strong>Tellent Grow</strong>).</p><p class=\"p2\">With 250+ team members globally, 7,000+ customers in 100+ countries, and a growing ecosystem of 500+ partners, we help organizations attract, grow, and retain top talent — and we’re just getting started.</p><p class=\"p3\" style=\"min-height: 1.7em;\"></p><p class=\"p2\"><strong>AI in our recruitment process</strong></p><p class=\"p2\">We use our internally developed AI tools to help streamline our recruitment process. However, technology never makes a decision. Every candidate is personally reviewed by our team. Your journey with us is guided by people, supported by tech. Curious about how it works? Read our&nbsp;<a rel=\"noopener\" target=\"_blank\" href=\"https://recruitee.com/ai-statement\">AI Statement</a>, check our&nbsp;<a rel=\"noopener\" target=\"_blank\" href=\"https://recruitee.com/privacy-policy\">Privacy Policy</a>, or chat with us at&nbsp;<a rel=\"noopener\" target=\"_blank\" href=\"mailto:hr@tellent.com\">hr@tellent.com</a>.</p><p class=\"p3\" style=\"min-height: 1.7em;\"></p><p class=\"p2\"><em>If you require accommodations or support during the recruitment process, please let us know — we’re happy to help.</em></p><p class=\"p3\" style=\"min-height: 1.7em;\"></p><p class=\"p3\" style=\"min-height: 1.7em;\"></p>",
+          "title": "Strategic Account Manager - Benelux",
+          "highlight": null,
+          "requirements": null,
+          "sharing_image": null,
+          "locations_question": "What is your preferred work location?",
+          "sharing_description": "Grow Tellent's most strategic customers in the Netherlands and Belgium. As Strategic Account Manager Benelux, you own a portfolio of our most valuable accounts and bring them further into Tellent Recr",
+          "sharing_title": "Strategic Account Manager - Benelux"
+        }
+      },
+      "sharing_image": null,
+      "country_code": "NL",
+      "close_at": null,
+      "cover_image": null,
+      "salary": {
+        "max": "105000",
+        "min": "96000",
+        "period": "year",
+        "currency": "EUR"
+      },
+      "locations_question_required": true,
+      "city": "Amsterdam",
+      "state_code": "NH",
+      "highlight": null,
+      "options_title": "off",
+      "country": "Netherlands",
+      "tags": [],
+      "requirements": null,
+      "state_name": "Noord-Holland",
+      "category_code": "sales",
+      "locations_question": "What is your preferred work location?",
+      "title": "Strategic Account Manager - Benelux",
+      "dynamic_fields": [],
+      "created_at": "2026-10-05 13:14:54 UTC",
+      "careers_url": "https://careers.tellent.com/o/strategic-account-manager-benelux-1",
+      "sharing_description": "Grow Tellent's most strategic customers in the Netherlands and Belgium. As Strategic Account Manager Benelux, you own a portfolio of our most valuable accounts and bring them further into Tellent Recr",
+      "description": "<p class=\"p2\">Grow Tellent's most strategic customers in the Netherlands and Belgium. As Strategic Account Manager Benelux, you own a portfolio of our most valuable accounts and bring them further into Tellent Recruitee, Tellent HR and Tellent Grow.</p><p class=\"p2\">Your focus is expansion: upselling, cross selling and upgrades. Customer Experience owns renewals, so your time goes into growth. It is a senior role with real autonomy. You own your portfolio, you build your own pipeline, and as the most senior account manager in the team you set the standard for how strategic accounts are run.</p><p class=\"p3\" style=\"min-height: 1.7em;\"></p><p class=\"p2\"><strong>About the team</strong></p><p class=\"p2\">You join the Benelux Account Management team in our Amsterdam office. You work closely with Customer Experience, Marketing and Revenue Operations. Together with Customer Experience you keep an eye on account health, timing and expansion readiness, so you know when a customer is ready to grow.</p><p class=\"p3\" style=\"min-height: 1.7em;\"></p><p class=\"p2\"><strong>Your 12 month journey</strong></p><p class=\"p2\"><strong>First 3 months<br></strong>You learn our products, our customers and where the expansion opportunities are. You take over your portfolio, start building account plans for your top accounts and have your first commercial conversations.</p><p class=\"p2\"><strong>Within 6 months<br></strong>You run your portfolio independently and build your own pipeline. You have strong relationships across your accounts and your discovery conversations are about business impact. In deal reviews and forecasting, your input counts.</p><p class=\"p2\"><strong>After 1 year<br></strong>You manage several complex expansion trajectories at once, backed by a healthy and well covered pipeline. You make a clear contribution to net revenue retention and you raise the commercial standard for the team.</p><p class=\"p3\" style=\"min-height: 1.7em;\"></p><p class=\"p2\"><strong>What you'll be doing</strong></p><ul class=\"ul1\"><li><p>Own and grow a portfolio of Tellent's most strategic Benelux accounts and build long term relationships with the people who decide</p></li><li><p>Drive expansion through upselling, cross selling and upgrades, bringing customers further into the Tellent platform</p></li><li><p>Build a full picture of every account: who decides, how often they hire, how their talent processes run, which agencies they work with and how the group is structured. Then spot where Tellent can add value</p></li><li><p>Write account plans that run several quarters ahead and anticipate what a customer needs before they ask</p></li><li><p>Build your own pipeline through proactive outreach</p></li><li><p>Run discovery conversations with senior stakeholders up to director level, with several contacts per account, always focused on business value</p></li><li><p>Work with Customer Experience on account health, timing and expansion readiness</p></li><li><p>Keep your pipeline, forecast and CRM in HubSpot accurate and up to date<br><br></p></li></ul><p class=\"p2\"><strong>What you bring</strong></p><ul class=\"ul1\"><li><p>Fluent Dutch (C1 or higher) and English. Dutch is a hard requirement</p></li><li><p>Commercial experience in a SaaS or tech environment, ideally in account management or expansion, with a track record of building and growing strategic accounts</p></li><li><p>You have built, managed and closed your own pipeline, and you have negotiated with several stakeholders at director level</p></li><li><p>An entrepreneurial streak. You take ownership and start things without waiting to be asked</p></li><li><p>Commercial judgement. You quantify value, build business cases that hold up and prioritise accounts by long term value</p></li><li><p>A customer first approach. You spot expansion opportunities without losing sight of the relationship</p></li><li><p>Discipline in pipeline management and CRM<br><br></p></li></ul><p class=\"p2\"><strong>Success in this role looks like</strong></p><ul class=\"ul1\"><li><p>Consistent expansion revenue from upselling, cross selling and upgrades across your portfolio</p></li><li><p>A healthy, well covered pipeline that you built yourself, with forecasts that hold</p></li><li><p>Deep relationships with several people in each of your most strategic accounts</p></li><li><p>Account plans in place and moving for your top accounts</p></li><li><p>A strong working partnership with Customer Experience<br></p></li></ul><p class=\"p3\" style=\"min-height: 1.7em;\"></p><p class=\"p2\"><strong>What we offer</strong></p><ul class=\"ul1\"><li><p>Base salary €61.500 - €70.000 per year + €35.000 Variable</p></li><li><p>Hybrid working from our beautiful canal-side office in Amsterdam</p></li><li><p>Diverse and international team environment</p></li><li><p>€1,500 annual training budget</p></li><li><p>Pension plan, wellness perks &amp; commuting/travel reimbursement</p></li><li><p>28 paid holiday days + 2 additional days in 2026</p></li><li><p>Work from anywhere for 4 weeks per year</p></li><li><p>Apple MacBook and all tools you need to succeed</p></li><li><p>€200 home office budget<br></p></li></ul><p class=\"p3\" style=\"min-height: 1.7em;\"></p><p class=\"p2\"><strong>About Tellent</strong></p><p class=\"p2\">Tellent is a leading Talent Management Suite designed to empower HR &amp; People teams across the entire employee journey. Our all-in-one platform combines an Applicant Tracking System (<strong>Tellent Recruitee</strong>), an intuitive HRIS (<strong>Tellent HR</strong>), and powerful Performance Management software (<strong>Tellent Grow</strong>).</p><p class=\"p2\">With 250+ team members globally, 7,000+ customers in 100+ countries, and a growing ecosystem of 500+ partners, we help organizations attract, grow, and retain top talent — and we’re just getting started.</p><p class=\"p3\" style=\"min-height: 1.7em;\"></p><p class=\"p2\"><strong>AI in our recruitment process</strong></p><p class=\"p2\">We use our internally developed AI tools to help streamline our recruitment process. However, technology never makes a decision. Every candidate is personally reviewed by our team. Your journey with us is guided by people, supported by tech. Curious about how it works? Read our&nbsp;<a rel=\"noopener\" target=\"_blank\" href=\"https://recruitee.com/ai-statement\">AI Statement</a>, check our&nbsp;<a rel=\"noopener\" target=\"_blank\" href=\"https://recruitee.com/privacy-policy\">Privacy Policy</a>, or chat with us at&nbsp;<a rel=\"noopener\" target=\"_blank\" href=\"mailto:hr@tellent.com\">hr@tellent.com</a>.</p><p class=\"p3\" style=\"min-height: 1.7em;\"></p><p class=\"p2\"><em>If you require accommodations or support during the recruitment process, please let us know — we’re happy to help.</em></p><p class=\"p3\" style=\"min-height: 1.7em;\"></p><p class=\"p3\" style=\"min-height: 1.7em;\"></p>",
+      "min_hours_per_week": "40",
+      "remote": false,
+      "postal_code": null,
+      "guid": "8ddpg",
+      "max_hours_per_week": null,
+      "updated_at": "2026-10-06 13:49:22 UTC",
+      "company_name": "Tellent",
+      "id": 2771339,
+      "open_questions": [
+        {
+          "id": 4414680,
+          "position": 1,
+          "options": {},
+          "required": true,
+          "body": "Are you legally authorized to work in The Netherlands without requiring visa sponsorship from us?",
+          "kind": "boolean",
+          "translations": {
+            "en": {
+              "body": "Are you legally authorized to work in The Netherlands without requiring visa sponsorship from us?"
+            }
+          },
+          "open_question_options": []
+        },
+        {
+          "id": 4414681,
+          "position": 2,
+          "options": {},
+          "required": true,
+          "body": "Please state your desired annual salary (gross)",
+          "kind": "string",
+          "translations": {
+            "en": {
+              "body": "Please state your desired annual salary (gross)"
+            }
+          },
+          "open_question_options": []
+        },
+        {
+          "id": 4414682,
+          "position": 3,
+          "options": {},
+          "required": true,
+          "body": "Are you proficient in both written and spoken Dutch at least at C1 level? (please note: this is a must-have requirement)?",
+          "kind": "boolean",
+          "translations": {
+            "en": {
+              "body": "Are you proficient in both written and spoken Dutch at least at C1 level? (please note: this is a must-have requirement)?"
+            }
+          },
+          "open_question_options": []
+        },
+        {
+          "id": 4414683,
+          "position": 4,
+          "options": {},
+          "required": false,
+          "body": "<p><em>Do you currently reside in the Netherlands?</em></p>",
+          "kind": "infobox",
+          "translations": {
+            "en": {
+              "body": "<p><em>Do you currently reside in the Netherlands?</em></p>"
+            }
+          },
+          "open_question_options": []
+        }
+      ],
+      "locations": [
+        {
+          "id": 3513,
+          "name": "Amsterdam",
+          "state": "Noord-Holland",
+          "country": "Netherlands",
+          "city": "Amsterdam",
+          "translations": {
+            "en": {
+              "name": "Amsterdam",
+              "city": "Amsterdam",
+              "postal_code": null,
+              "street": null,
+              "note": null
+            }
+          },
+          "country_code": "NL",
+          "state_code": "NH",
+          "postal_code": null,
+          "street": null,
+          "note": null
+        }
+      ],
+      "experience_code": "mid_level",
+      "employment_type_code": "fulltime_fixed_term",
+      "options_photo": "off",
+      "on_site": false,
+      "locations_question_type": "multiple_choice",
+      "hybrid": true,
+      "department": "1. GTM",
+      "location": "Amsterdam, Noord-Holland, Netherlands",
+      "status": "published",
+      "education_code": "bachelor_degree",
+      "location_question_visible": false
+    },
+    {
+      "options_salutation": "off",
+      "options_phone": "required",
+      "position": 501,
+      "max_hours": null,
+      "options_cv": "required",
+      "min_hours": 40,
+      "careers_apply_url": "https://careers.tellent.com/o/customer-support-specialist-dach/c/new",
+      "mailbox_email": "job.k3y1w@jobs.recruitee.com",
+      "sharing_title": "Customer Support Specialist - DACH",
+      "options_cover_letter": "optional",
+      "published_at": "2026-09-28 15:13:55 UTC",
+      "slug": "customer-support-specialist-dach",
+      "translations": {
+        "en": {
+          "description": "<p><em>Note: The listed salary range is based on the salary range for the Netherlands. Salary ranges may vary by location.</em></p><p style=\"min-height: 1.7em;\"></p><p><span style=\"color:#000000\">As a Customer Support Specialist, you’ll be at the heart of how our DACH customers experience Tellent. You’ll help customers get the most out of our Talent Management Suite by solving problems, answering questions, investigating issues and turning customer feedback into opportunities to improve our products and how we support them.</span></p><p><span style=\"color:#000000\">You’ll become a trusted expert across our products Tellent Recruitee and Tellent HR Manage, combining strong product and technical knowledge with empathy, critical thinking and AI-powered support tools. Beyond resolving individual customer questions, you’ll help us identify patterns, improve our knowledge and processes, and contribute to making Support better for both our customers and our teams.</span></p><h4><strong>Your 12-Month Journey</strong></h4><ul><li><p><strong>During the first 3 months:</strong> <span style=\"color:#000000\">You’ll learn the Tellent products, our customers, Support processes and tools, while building confidence in handling customer conversations independently. You’ll start resolving customer questions and issues with support from your teammates and identify your first opportunities to improve how we work.</span></p></li><li><p><strong>Within 6 months:</strong> <span style=\"color:#000000\">You’ll work with increasing autonomy across your assigned product areas and become a trusted point of contact for our DACH customers. You’ll take ownership of more complex problems, use AI and other support tools effectively, contribute to knowledge sharing and take part in a project or improvement initiative beyond your day-to-day customer work.</span></p></li><li><p><strong>After 1 year:</strong> <span style=\"color:#000000\">You’ll have developed strong product and technical expertise and be able to confidently investigate and resolve a broad range of customer problems. You’ll actively share your knowledge with peers, recognise recurring customer and product patterns, and contribute to improvements across Support and the wider organisation.</span></p></li></ul><h4><strong>What You’ll Be Doing</strong></h4><ul><li><p><strong><span style=\"color:#000000\">Own customer conversations:</span></strong><span style=\"color:#000000\"> Provide friendly, precise and personalised support across our support channels, taking ownership of customer questions from first contact through to resolution.</span></p></li><li><p><strong><span style=\"color:#000000\">Investigate &amp; resolve problems:</span></strong><span style=\"color:#000000\"> Use your product knowledge, technical skills, context and available tools to understand what is really happening, troubleshoot issues and identify the right resolution before escalating when needed.</span></p></li><li><p><strong><span style=\"color:#000000\">Become a product expert:</span></strong><span style=\"color:#000000\"> Build deep knowledge of Tellent’s products and use that expertise to educate customers, explain complex topics clearly and act as a voice of the customer internally.</span></p></li><li><p><strong><span style=\"color:#000000\">Use AI effectively:</span></strong><span style=\"color:#000000\"> Work with AI-powered support tools to resolve customer questions efficiently while critically reviewing AI-generated information for accuracy, relevance and customer impact. Know when AI is appropriate, when human judgement is needed and when an issue requires escalation.</span></p></li><li><p><strong><span style=\"color:#000000\">Improve how we work:</span></strong><span style=\"color:#000000\"> Identify recurring questions, product issues and opportunities for improvement. Contribute to our Help Center, internal knowledge base, AI knowledge and Support processes to make information more useful for customers, colleagues and AI.</span></p></li><li><p><strong><span style=\"color:#000000\">Create impact beyond tickets:</span></strong><span style=\"color:#000000\"> Take ownership of side projects and improvement initiatives that help develop yourself, the Support team and the wider company.</span></p></li><li><p><strong><span style=\"color:#000000\">Collaboration:</span></strong><span style=\"color:#000000\"> Work closely with fellow Support Specialists, Team Leads and our Tech Support team, as well as Product, Engineering, Customer Success and other customer-facing teams to solve problems and turn customer insights into meaningful improvements.</span></p></li></ul><h4><strong>What You Bring</strong></h4><ul><li><p><strong><span style=\"color:#000000\">Customer support experience:</span></strong><span style=\"color:#000000\"> Entry-level experience in customer support, customer care or another client-facing role where you’ve been responsible for solving problems, explaining technical concepts clearly and delivering a great customer experience.</span></p></li><li><p><strong><span style=\"color:#000000\">Language skills:</span></strong><span style=\"color:#000000\"> Strong written and verbal communication skills in German (minimum C1 level or higher) and English (minimum B2 level or higher).</span></p></li><li><p><strong><span style=\"color:#121317\">Critical Thinking &amp; AI:</span></strong><span style=\"color:#121317\"> Context-driven problem solver who uses data, curiosity, and modern AI tools to find accurate solutions.</span></p></li><li><p><strong><span style=\"color:#121317\">Ownership &amp; Collaboration:</span></strong><span style=\"color:#121317\"> Adaptable, reliable, receptive to feedback, and eager to contribute to team success.</span></p></li></ul><h4><strong>What We Offer</strong></h4><ul><li><p>Remote or hybrid working across Netherlands, Germany, and Poland</p></li><li><p>Diverse and international team environment</p></li><li><p>€1,500 annual learning budget + internal learning opportunities</p></li><li><p>Pension plan, wellness perks &amp; commuting/travel reimbursement</p></li><li><p>28 paid holiday days + 2 wellbeing days in 2026</p></li><li><p>Work from anywhere for up to 4 weeks per year</p></li><li><p>Apple MacBook and all the tools you need to succeed</p></li><li><p>€200 home office budget</p></li></ul><h4><strong>About Tellent</strong></h4><p style=\"text-align:start;\">Tellent is a leading Talent Management Suite designed to empower HR &amp; People teams across the entire employee journey. Our all-in-one platform combines an Applicant Tracking System (<strong>Tellent Recruitee</strong>), an intuitive HRIS (<strong>Tellent HR</strong>), and powerful Performance Management software (<strong>Tellent Grow</strong>).</p><p style=\"text-align:start;\">With 250+ team members globally, 7,000+ customers in 100+ countries, and a growing ecosystem of 500+ partners, we help organizations attract, grow, and retain top talent — and we’re just getting started.</p><h4><strong>AI in our recruitment process</strong></h4><p style=\"text-align:start;\">We use our internally developed AI tools to help streamline our recruitment process. However, technology never makes a decision. Every candidate is personally reviewed by our team. Your journey with us is guided by people, supported by tech. Curious about how it works? Read our&nbsp;<a rel=\"noopener\" target=\"_blank\" href=\"https://recruitee.com/ai-statement\">AI Statement</a>, check our&nbsp;<a rel=\"noopener\" target=\"_blank\" href=\"https://recruitee.com/privacy-policy\">Privacy Policy</a>, or chat with us at&nbsp;<a rel=\"noopener\" target=\"_blank\" href=\"mailto:hr@tellent.com\">hr@tellent.com</a>.</p><p style=\"text-align:start;\"><em>If you require accommodations or support during the recruitment process, please let us know — we’re happy to help.</em></p>",
+          "title": "Customer Support Specialist - DACH",
+          "highlight": null,
+          "requirements": null,
+          "sharing_image": null,
+          "locations_question": "What is your preferred work location?",
+          "sharing_description": "Note: The listed salary range is based on the salary range for the Netherlands. Salary ranges may vary by location.As a Customer Support Specialist, you’ll be at the heart of how our DACH customers ex",
+          "sharing_title": "Customer Support Specialist - DACH"
+        }
+      },
+      "sharing_image": null,
+      "country_code": "PL",
+      "close_at": null,
+      "cover_image": null,
+      "salary": {
+        "max": "45000",
+        "min": "39000",
+        "period": "year",
+        "currency": "EUR"
+      },
+      "locations_question_required": true,
+      "city": "Poznań",
+      "state_code": "30",
+      "highlight": null,
+      "options_title": "off",
+      "country": "Poland",
+      "tags": [],
+      "requirements": null,
+      "state_name": "Wielkopolskie",
+      "category_code": "engineering",
+      "locations_question": "What is your preferred work location?",
+      "title": "Customer Support Specialist - DACH",
+      "dynamic_fields": [],
+      "created_at": "2026-09-28 14:36:28 UTC",
+      "careers_url": "https://careers.tellent.com/o/customer-support-specialist-dach",
+      "sharing_description": "Note: The listed salary range is based on the salary range for the Netherlands. Salary ranges may vary by location.As a Customer Support Specialist, you’ll be at the heart of how our DACH customers ex",
+      "description": "<p><em>Note: The listed salary range is based on the salary range for the Netherlands. Salary ranges may vary by location.</em></p><p style=\"min-height: 1.7em;\"></p><p><span style=\"color:#000000\">As a Customer Support Specialist, you’ll be at the heart of how our DACH customers experience Tellent. You’ll help customers get the most out of our Talent Management Suite by solving problems, answering questions, investigating issues and turning customer feedback into opportunities to improve our products and how we support them.</span></p><p><span style=\"color:#000000\">You’ll become a trusted expert across our products Tellent Recruitee and Tellent HR Manage, combining strong product and technical knowledge with empathy, critical thinking and AI-powered support tools. Beyond resolving individual customer questions, you’ll help us identify patterns, improve our knowledge and processes, and contribute to making Support better for both our customers and our teams.</span></p><h4><strong>Your 12-Month Journey</strong></h4><ul><li><p><strong>During the first 3 months:</strong> <span style=\"color:#000000\">You’ll learn the Tellent products, our customers, Support processes and tools, while building confidence in handling customer conversations independently. You’ll start resolving customer questions and issues with support from your teammates and identify your first opportunities to improve how we work.</span></p></li><li><p><strong>Within 6 months:</strong> <span style=\"color:#000000\">You’ll work with increasing autonomy across your assigned product areas and become a trusted point of contact for our DACH customers. You’ll take ownership of more complex problems, use AI and other support tools effectively, contribute to knowledge sharing and take part in a project or improvement initiative beyond your day-to-day customer work.</span></p></li><li><p><strong>After 1 year:</strong> <span style=\"color:#000000\">You’ll have developed strong product and technical expertise and be able to confidently investigate and resolve a broad range of customer problems. You’ll actively share your knowledge with peers, recognise recurring customer and product patterns, and contribute to improvements across Support and the wider organisation.</span></p></li></ul><h4><strong>What You’ll Be Doing</strong></h4><ul><li><p><strong><span style=\"color:#000000\">Own customer conversations:</span></strong><span style=\"color:#000000\"> Provide friendly, precise and personalised support across our support channels, taking ownership of customer questions from first contact through to resolution.</span></p></li><li><p><strong><span style=\"color:#000000\">Investigate &amp; resolve problems:</span></strong><span style=\"color:#000000\"> Use your product knowledge, technical skills, context and available tools to understand what is really happening, troubleshoot issues and identify the right resolution before escalating when needed.</span></p></li><li><p><strong><span style=\"color:#000000\">Become a product expert:</span></strong><span style=\"color:#000000\"> Build deep knowledge of Tellent’s products and use that expertise to educate customers, explain complex topics clearly and act as a voice of the customer internally.</span></p></li><li><p><strong><span style=\"color:#000000\">Use AI effectively:</span></strong><span style=\"color:#000000\"> Work with AI-powered support tools to resolve customer questions efficiently while critically reviewing AI-generated information for accuracy, relevance and customer impact. Know when AI is appropriate, when human judgement is needed and when an issue requires escalation.</span></p></li><li><p><strong><span style=\"color:#000000\">Improve how we work:</span></strong><span style=\"color:#000000\"> Identify recurring questions, product issues and opportunities for improvement. Contribute to our Help Center, internal knowledge base, AI knowledge and Support processes to make information more useful for customers, colleagues and AI.</span></p></li><li><p><strong><span style=\"color:#000000\">Create impact beyond tickets:</span></strong><span style=\"color:#000000\"> Take ownership of side projects and improvement initiatives that help develop yourself, the Support team and the wider company.</span></p></li><li><p><strong><span style=\"color:#000000\">Collaboration:</span></strong><span style=\"color:#000000\"> Work closely with fellow Support Specialists, Team Leads and our Tech Support team, as well as Product, Engineering, Customer Success and other customer-facing teams to solve problems and turn customer insights into meaningful improvements.</span></p></li></ul><h4><strong>What You Bring</strong></h4><ul><li><p><strong><span style=\"color:#000000\">Customer support experience:</span></strong><span style=\"color:#000000\"> Entry-level experience in customer support, customer care or another client-facing role where you’ve been responsible for solving problems, explaining technical concepts clearly and delivering a great customer experience.</span></p></li><li><p><strong><span style=\"color:#000000\">Language skills:</span></strong><span style=\"color:#000000\"> Strong written and verbal communication skills in German (minimum C1 level or higher) and English (minimum B2 level or higher).</span></p></li><li><p><strong><span style=\"color:#121317\">Critical Thinking &amp; AI:</span></strong><span style=\"color:#121317\"> Context-driven problem solver who uses data, curiosity, and modern AI tools to find accurate solutions.</span></p></li><li><p><strong><span style=\"color:#121317\">Ownership &amp; Collaboration:</span></strong><span style=\"color:#121317\"> Adaptable, reliable, receptive to feedback, and eager to contribute to team success.</span></p></li></ul><h4><strong>What We Offer</strong></h4><ul><li><p>Remote or hybrid working across Netherlands, Germany, and Poland</p></li><li><p>Diverse and international team environment</p></li><li><p>€1,500 annual learning budget + internal learning opportunities</p></li><li><p>Pension plan, wellness perks &amp; commuting/travel reimbursement</p></li><li><p>28 paid holiday days + 2 wellbeing days in 2026</p></li><li><p>Work from anywhere for up to 4 weeks per year</p></li><li><p>Apple MacBook and all the tools you need to succeed</p></li><li><p>€200 home office budget</p></li></ul><h4><strong>About Tellent</strong></h4><p style=\"text-align:start;\">Tellent is a leading Talent Management Suite designed to empower HR &amp; People teams across the entire employee journey. Our all-in-one platform combines an Applicant Tracking System (<strong>Tellent Recruitee</strong>), an intuitive HRIS (<strong>Tellent HR</strong>), and powerful Performance Management software (<strong>Tellent Grow</strong>).</p><p style=\"text-align:start;\">With 250+ team members globally, 7,000+ customers in 100+ countries, and a growing ecosystem of 500+ partners, we help organizations attract, grow, and retain top talent — and we’re just getting started.</p><h4><strong>AI in our recruitment process</strong></h4><p style=\"text-align:start;\">We use our internally developed AI tools to help streamline our recruitment process. However, technology never makes a decision. Every candidate is personally reviewed by our team. Your journey with us is guided by people, supported by tech. Curious about how it works? Read our&nbsp;<a rel=\"noopener\" target=\"_blank\" href=\"https://recruitee.com/ai-statement\">AI Statement</a>, check our&nbsp;<a rel=\"noopener\" target=\"_blank\" href=\"https://recruitee.com/privacy-policy\">Privacy Policy</a>, or chat with us at&nbsp;<a rel=\"noopener\" target=\"_blank\" href=\"mailto:hr@tellent.com\">hr@tellent.com</a>.</p><p style=\"text-align:start;\"><em>If you require accommodations or support during the recruitment process, please let us know — we’re happy to help.</em></p>",
+      "min_hours_per_week": "40",
+      "remote": true,
+      "postal_code": null,
+      "guid": "k3y1w",
+      "max_hours_per_week": null,
+      "updated_at": "2026-10-02 12:31:34 UTC",
+      "company_name": "Tellent",
+      "id": 2762063,
+      "open_questions": [
+        {
+          "id": 4399841,
+          "position": 1,
+          "options": {},
+          "required": true,
+          "body": "Do you have legal right to work in the country where this role is based? (e.g., EU citizenship, HSM, orientation visa, valid permit)?",
+          "kind": "boolean",
+          "translations": {
+            "en": {
+              "body": "Do you have legal right to work in the country where this role is based? (e.g., EU citizenship, HSM, orientation visa, valid permit)?"
+            }
+          },
+          "open_question_options": []
+        },
+        {
+          "id": 4399842,
+          "position": 2,
+          "options": {},
+          "required": true,
+          "body": "Please state your desired annual salary (gross)",
+          "kind": "string",
+          "translations": {
+            "en": {
+              "body": "Please state your desired annual salary (gross)"
+            }
+          },
+          "open_question_options": []
+        },
+        {
+          "id": 4399843,
+          "position": 3,
+          "options": {},
+          "required": true,
+          "body": "Are you proficient in both written and spoken German at least at C1 level? (please note: this is a must-have requirement)",
+          "kind": "boolean",
+          "translations": {
+            "en": {
+              "body": "Are you proficient in both written and spoken German at least at C1 level? (please note: this is a must-have requirement)"
+            }
+          },
+          "open_question_options": []
+        },
+        {
+          "id": 4399844,
+          "position": 4,
+          "options": {},
+          "required": true,
+          "body": "Are you proficient in both written and spoken English at least at B2 level? (please note: this is a must-have requirement)",
+          "kind": "boolean",
+          "translations": {
+            "en": {
+              "body": "Are you proficient in both written and spoken English at least at B2 level? (please note: this is a must-have requirement)"
+            }
+          },
+          "open_question_options": []
+        },
+        {
+          "id": 4399845,
+          "position": 5,
+          "options": {},
+          "required": false,
+          "body": "<p><em>As English is our official company language, we kindly request that all application materials are submitted in <strong>English</strong>. Please note that applications submitted in other languages <strong>cannot be reviewed</strong>. Thank you for your understanding!</em></p>",
+          "kind": "infobox",
+          "translations": {
+            "en": {
+              "body": "<p><em>As English is our official company language, we kindly request that all application materials are submitted in <strong>English</strong>. Please note that applications submitted in other languages <strong>cannot be reviewed</strong>. Thank you for your understanding!</em></p>"
+            }
+          },
+          "open_question_options": []
+        }
+      ],
+      "locations": [
+        {
+          "id": 187185,
+          "name": "Poland (Remote)",
+          "state": "Wielkopolskie",
+          "country": "Poland",
+          "city": "Poznań",
+          "translations": {
+            "en": {
+              "name": "Poland (Remote)",
+              "city": "Poznań",
+              "postal_code": null,
+              "street": null,
+              "note": null
+            }
+          },
+          "country_code": "PL",
+          "state_code": "30",
+          "postal_code": null,
+          "street": null,
+          "note": null
+        },
+        {
+          "id": 3530,
+          "name": "Poznań",
+          "state": "Wielkopolskie",
+          "country": "Poland",
+          "city": "Poznań",
+          "translations": {
+            "en": {
+              "name": "Poznań",
+              "city": "Poznań",
+              "postal_code": null,
+              "street": "plac Wiosny Ludów 2",
+              "note": null
+            }
+          },
+          "country_code": "PL",
+          "state_code": "30",
+          "postal_code": null,
+          "street": "plac Wiosny Ludów 2",
+          "note": null
+        },
+        {
+          "id": 3513,
+          "name": "Amsterdam",
+          "state": "Noord-Holland",
+          "country": "Netherlands",
+          "city": "Amsterdam",
+          "translations": {
+            "en": {
+              "name": "Amsterdam",
+              "city": "Amsterdam",
+              "postal_code": null,
+              "street": null,
+              "note": null
+            }
+          },
+          "country_code": "NL",
+          "state_code": "NH",
+          "postal_code": null,
+          "street": null,
+          "note": null
+        },
+        {
+          "id": 3516,
+          "name": "Germany",
+          "state": "Nordrhein-Westfalen",
+          "country": "Germany",
+          "city": "Cologne",
+          "translations": {
+            "en": {
+              "name": "Germany",
+              "city": "Cologne",
+              "postal_code": null,
+              "street": null,
+              "note": null
+            }
+          },
+          "country_code": "DE",
+          "state_code": "NW",
+          "postal_code": null,
+          "street": null,
+          "note": null
+        }
+      ],
+      "experience_code": "entry_level",
+      "employment_type_code": "fulltime_fixed_term",
+      "options_photo": "off",
+      "on_site": false,
+      "locations_question_type": "multiple_choice",
+      "hybrid": true,
+      "department": "1. R&D",
+      "location": "Remote job",
+      "status": "published",
+      "education_code": "bachelor_degree",
+      "location_question_visible": false
+    }
+  ]
+}
